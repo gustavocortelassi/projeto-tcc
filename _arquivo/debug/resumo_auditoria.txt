@@ -1,0 +1,75 @@
+
+======================================================================
+objetos_filtrados.json
+======================================================================
+  105568 itens | chaves: {'xml': 105568, 'objeto_idx': 105568, 'classe': 105568, 'bbox': 105568, 'largura': 105568, 'altura': 105568, 'motivo': 105568}
+  exemplo: {"xml": "train_set\\IMG_1822_01.xml", "objeto_idx": 2, "classe": "V1", "bbox": [2413, 1229, 2570, 12...
+    contagem de 'classe':
+      CYPRO_max                        16807
+      CYPRO_min                        14185
+      SOLNI_Vc                         13902
+      CYPRO                            12102
+      NC                               11215
+      V1                               10022
+      SOLNI_V1                          8771
+      ECHCG                             5533
+      ECHCG_Ve                          5404
+      V3                                5106
+      V4                                2105
+      ECHCG_V2                           205
+      ZEAMX                              169
+      ECHCG_V1                            19
+      OE                                  15
+      POROL                                5
+      SOLNI_V2                             2
+      SOLNI                                1
+
+======================================================================
+grupos_quase_duplicata.json
+======================================================================
+  dict com 8785 chaves
+  - dataset_unificado\R1\usuario_20260329_174008.jpg: str = "unico_usuario_20260329_174008"
+  - dataset_unificado\R1\usuario_20260329_174009.jpg: str = "unico_usuario_20260329_174009"
+  - dataset_unificado\R1\usuario_20260329_174019.jpg: str = "unico_usuario_20260329_174019"
+  - dataset_unificado\R1\usuario_20260329_174022.jpg: str = "unico_usuario_20260329_174022"
+  - dataset_unificado\R1\usuario_20260329_174023.jpg: str = "unico_usuario_20260329_174023"
+  - dataset_unificado\R1\usuario_20260329_174026.jpg: str = "unico_usuario_20260329_174026"
+  - dataset_unificado\R1\usuario_20260329_174032.jpg: str = "unico_usuario_20260329_174032"
+  - dataset_unificado\R1\usuario_20260329_174034.jpg: str = "unico_usuario_20260329_174034"
+  - dataset_unificado\R1\usuario_20260329_174036.jpg: str = "unico_usuario_20260329_174036"
+  - dataset_unificado\R1\usuario_20260329_174040.jpg: str = "unico_usuario_20260329_174040"
+  - dataset_unificado\R1\usuario_20260329_174041.jpg: str = "unico_usuario_20260329_174041"
+  - dataset_unificado\R1\usuario_20260329_174056.jpg: str = "unico_usuario_20260329_174056"
+  - dataset_unificado\R1\usuario_20260329_174058.jpg: str = "unico_usuario_20260329_174058"
+  - dataset_unificado\R1\usuario_20260329_174059.jpg: str = "unico_usuario_20260329_174059"
+  - dataset_unificado\R1\usuario_20260329_174646.jpg: str = "unico_usuario_20260329_174646"
+  - dataset_unificado\R1\usuario_20260329_174651.jpg: str = "unico_usuario_20260329_174651"
+  - dataset_unificado\R1\usuario_20260329_174702_01.jpg: str = "unico_usuario_20260329_174702_01"
+  - dataset_unificado\R1\usuario_20260329_174702_03.jpg: str = "unico_usuario_20260329_174702_03"
+  - dataset_unificado\R1\usuario_20260329_174751(0).jpg: str = "unico_usuario_20260329_174751(0)"
+  - dataset_unificado\R1\usuario_20260329_174751.jpg: str = "unico_usuario_20260329_174751"
+  - dataset_unificado\R1\usuario_20260329_174752(0).jpg: str = "unico_usuario_20260329_174752(0)"
+  - dataset_unificado\R1\usuario_20260329_174752(1).jpg: str = "unico_usuario_20260329_174752(1)"
+  - dataset_unificado\R1\usuario_20260329_174752.jpg: str = "unico_usuario_20260329_174752"
+  - dataset_unificado\R1\usuario_20260329_174753.jpg: str = "unico_usuario_20260329_174753"
+  - dataset_unificado\R1\usuario_20260329_174753_008.jpg: str = "unico_usuario_20260329_174753_008"
+  ... e mais 8760 chaves
+
+======================================================================
+outputs\results\excedente.json
+======================================================================
+  dict com 7 chaves
+  - R1: list (len 906)
+      lista com 906 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134115.jpg"
+  - R2: list (len 22)
+      lista com 22 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_021.jp...
+  - R5: list (len 833)
+      lista com 833 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131626.jpg"
+  - R6: list (len 81)
+      lista com 81 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_002.jp...
+  - V1: list (len 925)
+      lista com 925 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1824_02__o...
+  - V3: list (len 514)
+      lista com 514 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1824_03__o...
+  - V7: list (len 435)
+      lista com 435 itens | exemplo: "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260224_163442.jpg"

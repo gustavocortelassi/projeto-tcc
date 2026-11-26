@@ -1,0 +1,105 @@
+
+========================================================================
+1. DESCARTES NA EXTRAÇÃO PASCAL VOC (objetos_filtrados.json)
+========================================================================
+  Total descartado: 105568
+    espécie/classe fora do escopo              88335
+    truncado                                   15773
+    caixa pequena                               1460
+
+  Milho nos estádios-alvo, por motivo:
+    V1   truncado                                8566
+    V1   caixa pequena                           1456
+    V3   truncado                                5102
+    V3   caixa pequena                              4
+    V4   truncado                                2105
+
+========================================================================
+2. COMPOSIÇÃO POR FONTE (usuario / professor / externo)
+========================================================================
+  Classe   Etapa         usuario  professor    externo
+  R1       unificado         187       1219          0
+  R1       treino             50        375          0
+  R1       teste              12         63          0
+  R2       unificado           8        514          0
+  R2       treino              8        417          0
+  R2       teste               0         75          0
+  R3_R4    unificado         249          0          0
+  R3_R4    treino            211          0          0
+  R3_R4    teste              38          0          0
+  R5       unificado           0       1333          0
+  R5       treino              0        425          0
+  R5       teste               0         75          0
+  R6       unificado         364        218          0
+  R6       treino            268        157          0
+  R6       teste              45         30          0
+  V1       unificado           0        159       1266
+  V1       treino              0         47        378
+  V1       teste               0          8         67
+  V2       unificado           0        248          0
+  V2       treino              0        211          0
+  V2       teste               0         37          0
+  V3       unificado          11        708        295
+  V3       treino              6        296        123
+  V3       teste               1         51         23
+  V4       unificado           4         60         77
+  V4       treino              4         49         67
+  V4       teste               0         11         10
+  V6       unificado           0        179          0
+  V6       treino              0        152          0
+  V6       teste               0         27          0
+  V7       unificado          36        899          0
+  V7       treino             15        410          0
+  V7       teste               1         74          0
+  V12      unificado           0        387          0
+  V12      treino              0        329          0
+  V12      teste               0         58          0
+  VT       unificado           9        355          0
+  VT       treino              9        300          0
+  VT       teste               0         55          0
+
+  TOTAL    unificado         868       6279       1638
+  TOTAL    treino            571       3168        568
+  TOTAL    teste              97        564        100
+
+========================================================================
+3. QUASE-DUPLICATAS ENTRE TESTE E TREINO+VAL (aHash 16x16)
+========================================================================
+  Classe    teste  treino    <=5   <=10   dist.mín.mediana
+  R1           75     425      1      4                 49
+  R2           75     425     38     54                  5
+  R3_R4        38     211      3     10                 20
+  R5           75     425      6     10                 35
+  R6           75     425      5     19                 18
+  V1           75     425      0      0                 70
+  V2           37     211      0      0                 90
+  V3           75     425      0      0                 85
+  V4           21     120      0      0                 89
+  V6           27     152      0      0                 79
+  V7           75     425      0      0                 57
+  V12          58     329      4      6                 42
+  VT           55     309      5      9                 29
+
+  TOTAL: 62 de 761 imagens de teste com vizinho <= 5 (8.1%) | 112 com vizinho <= 10 (14.7%)
+
+  Exemplos de pares mais próximos (para conferir visualmente):
+    R1     dist=5   teste: professor_20260317_134243_003.jpg  |  treino: professor_20260317_134243_004.jpg
+    R1     dist=6   teste: professor_20260403_173607_002.jpg  |  treino: professor_20260403_173607_001.jpg
+    R1     dist=6   teste: usuario_20260329_174944.jpg  |  treino: usuario_20260329_174950.jpg
+    R2     dist=0   teste: professor_20260411_135032_027.jpg  |  treino: professor_20260411_135032_028.jpg
+    R2     dist=0   teste: professor_20260411_135032_030.jpg  |  treino: professor_20260411_135032_029.jpg
+    R2     dist=1   teste: professor_20260411_135032_004.jpg  |  treino: professor_20260411_135032_002.jpg
+    R3_R4  dist=2   teste: usuario_20260531_180051_005.jpg  |  treino: usuario_20260531_180051_004.jpg
+    R3_R4  dist=3   teste: usuario_20260531_180009_007.jpg  |  treino: usuario_20260531_180009_006.jpg
+    R3_R4  dist=4   teste: usuario_20260531_180022_087.jpg  |  treino: usuario_20260531_180022_088.jpg
+    R5     dist=0   teste: professor_20260424_131336_004.jpg  |  treino: professor_20260424_131336_005.jpg
+    R5     dist=2   teste: professor_20260424_131326_056.jpg  |  treino: professor_20260424_131326_055.jpg
+    R5     dist=2   teste: professor_20260424_131336_011.jpg  |  treino: professor_20260424_131336_012.jpg
+    R6     dist=0   teste: usuario_20260531_175231_003.jpg  |  treino: usuario_20260531_175231_002.jpg
+    R6     dist=1   teste: usuario_20260531_175231_014.jpg  |  treino: usuario_20260531_175231_015.jpg
+    R6     dist=5   teste: usuario_20260531_175236_019.jpg  |  treino: usuario_20260531_175236_018.jpg
+    V12    dist=1   teste: professor_20260405_180040_001.jpg  |  treino: professor_20260405_180040_002.jpg
+    V12    dist=2   teste: professor_20260405_180040_005.jpg  |  treino: professor_20260405_180040_004.jpg
+    V12    dist=3   teste: professor_20260405_175927_001.jpg  |  treino: professor_20260405_175927_002.jpg
+    VT     dist=1   teste: professor_20260403_174506_020.jpg  |  treino: professor_20260403_174506_021.jpg
+    VT     dist=1   teste: professor_20260403_174926_010.jpg  |  treino: professor_20260403_174926_009.jpg

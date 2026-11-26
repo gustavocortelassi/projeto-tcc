@@ -1,0 +1,4568 @@
+[
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1829_01__obj08.jpg",
+    "classe": "V3",
+    "dist_min": 93,
+    "vizinho_treino": "externo_test_set__IMG_1840_35__obj13.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260308_182957.jpg",
+    "classe": "V6",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260308_182941.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_022.jpg",
+    "classe": "V12",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260405_180024_023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_094.jpg",
+    "classe": "V12",
+    "dist_min": 50,
+    "vizinho_treino": "professor_20260405_180114_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1849_42__obj26.jpg",
+    "classe": "V4",
+    "dist_min": 87,
+    "vizinho_treino": "externo_test_set__IMG_1857_11__obj10.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_008.jpg",
+    "classe": "VT",
+    "dist_min": 33,
+    "vizinho_treino": "professor_20260403_174449_007.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172705.jpg",
+    "classe": "R3_R4",
+    "dist_min": 103,
+    "vizinho_treino": "usuario_20260403_172704.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133404_083.jpg",
+    "classe": "R5",
+    "dist_min": 16,
+    "vizinho_treino": "professor_20260423_133404_084.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_027.jpg",
+    "classe": "V12",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260405_175927_028.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_024.jpg",
+    "classe": "V12",
+    "dist_min": 72,
+    "vizinho_treino": "professor_20260405_180024_077.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133356_057.jpg",
+    "classe": "R5",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260423_133356_056.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174437.jpg",
+    "classe": "VT",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260403_174441.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173407_007.jpg",
+    "classe": "R1",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260403_173407_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1857_12__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 72,
+    "vizinho_treino": "externo_test_set__IMG_1845_18__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260224_163509.jpg",
+    "classe": "V6",
+    "dist_min": 87,
+    "vizinho_treino": "professor_20260308_182945.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7105.jpg",
+    "classe": "V6",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260224_163454.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_073.jpg",
+    "classe": "V7",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260421_112500_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162259.jpg",
+    "classe": "V4",
+    "dist_min": 82,
+    "vizinho_treino": "professor_20260224_162254.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_090.jpg",
+    "classe": "R6",
+    "dist_min": 22,
+    "vizinho_treino": "professor_20260505_131739_089.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1840_34__obj06.jpg",
+    "classe": "V1",
+    "dist_min": 75,
+    "vizinho_treino": "externo_test_set__IMG_2787_37__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173607_015.jpg",
+    "classe": "R1",
+    "dist_min": 65,
+    "vizinho_treino": "professor_20260403_173607_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260308_185101.jpg",
+    "classe": "V1",
+    "dist_min": 79,
+    "vizinho_treino": "professor_20260308_185109.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_130927.jpg",
+    "classe": "V2",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260225_130928.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131718_055.jpg",
+    "classe": "R5",
+    "dist_min": 73,
+    "vizinho_treino": "professor_20260422_131653_007.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6906.jpg",
+    "classe": "V3",
+    "dist_min": 84,
+    "vizinho_treino": "professor_IMG_6909.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_090.jpg",
+    "classe": "R2",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260411_135032_067.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_039.jpg",
+    "classe": "R6",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260505_131739_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172542.jpg",
+    "classe": "R3_R4",
+    "dist_min": 75,
+    "vizinho_treino": "usuario_20260403_172606(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112455.jpg",
+    "classe": "V7",
+    "dist_min": 73,
+    "vizinho_treino": "professor_20260421_112500_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1829_20__obj12.jpg",
+    "classe": "V1",
+    "dist_min": 84,
+    "vizinho_treino": "externo_test_set__IMG_2637_23__obj07.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131631_030.jpg",
+    "classe": "R5",
+    "dist_min": 63,
+    "vizinho_treino": "professor_20260422_131631_031.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1845_21__obj04.jpg",
+    "classe": "V1",
+    "dist_min": 57,
+    "vizinho_treino": "externo_test_set__IMG_1846_25__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1865_21__obj05.jpg",
+    "classe": "V3",
+    "dist_min": 89,
+    "vizinho_treino": "externo_test_set__IMG_1840_22__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_030.jpg",
+    "classe": "V12",
+    "dist_min": 41,
+    "vizinho_treino": "professor_20260405_180024_029.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_100.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_134354_099.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165739_065.jpg",
+    "classe": "V3",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260222_165739_066.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_090.jpg",
+    "classe": "VT",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260403_174506_094.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_016.jpg",
+    "classe": "V7",
+    "dist_min": 89,
+    "vizinho_treino": "professor_20260421_113512_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_080.jpg",
+    "classe": "R2",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260411_134418_081.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174753_008.jpg",
+    "classe": "R1",
+    "dist_min": 25,
+    "vizinho_treino": "usuario_20260329_174818.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173402_005.jpg",
+    "classe": "R1",
+    "dist_min": 45,
+    "vizinho_treino": "professor_20260403_173402_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112540_003.jpg",
+    "classe": "V7",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260421_112540_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_007.jpg",
+    "classe": "V7",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260421_113417_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_085.jpg",
+    "classe": "R1",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260405_114137_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174950(0).jpg",
+    "classe": "R1",
+    "dist_min": 15,
+    "vizinho_treino": "usuario_20260329_174950.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_021.jpg",
+    "classe": "VT",
+    "dist_min": 59,
+    "vizinho_treino": "professor_20260403_174926_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_058.jpg",
+    "classe": "R3_R4",
+    "dist_min": 6,
+    "vizinho_treino": "usuario_20260531_180051_057.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_059.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_135032_060.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_097.jpg",
+    "classe": "R6",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260505_131739_096.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132957_022.jpg",
+    "classe": "R1",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260323_132957_023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_021.jpg",
+    "classe": "R2",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260411_134448_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174742.jpg",
+    "classe": "R6",
+    "dist_min": 27,
+    "vizinho_treino": "usuario_20260531_174838.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1887_06__obj02.jpg",
+    "classe": "V3",
+    "dist_min": 85,
+    "vizinho_treino": "externo_test_set__IMG_1829_11__obj34.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112509_020.jpg",
+    "classe": "V7",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260421_112509_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_064.jpg",
+    "classe": "R5",
+    "dist_min": 60,
+    "vizinho_treino": "professor_20260424_131336_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180009_024.jpg",
+    "classe": "R3_R4",
+    "dist_min": 13,
+    "vizinho_treino": "usuario_20260531_180009_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2885_12__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 78,
+    "vizinho_treino": "externo_test_set__IMG_2664_06__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2578_17__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 57,
+    "vizinho_treino": "externo_test_set__IMG_1891_24__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_050.jpg",
+    "classe": "VT",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260403_174506_092.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_019.jpg",
+    "classe": "R6",
+    "dist_min": 5,
+    "vizinho_treino": "usuario_20260531_175236_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_093.jpg",
+    "classe": "R2",
+    "dist_min": 6,
+    "vizinho_treino": "professor_20260411_134418_092.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_064.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_135032_063.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131631_043.jpg",
+    "classe": "R5",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260422_131653_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_024.jpg",
+    "classe": "R2",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260411_134342_023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1840_24__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 66,
+    "vizinho_treino": "externo_test_set__IMG_1858_36__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_023.jpg",
+    "classe": "R6",
+    "dist_min": 39,
+    "vizinho_treino": "usuario_20260531_174914(2).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_067.jpg",
+    "classe": "V12",
+    "dist_min": 40,
+    "vizinho_treino": "professor_20260405_180024_066.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_042.jpg",
+    "classe": "V12",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260405_180040_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131631_058.jpg",
+    "classe": "R5",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260422_131631_057.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_013.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134354_012.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131326_042.jpg",
+    "classe": "R5",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260424_131326_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_081.jpg",
+    "classe": "R3_R4",
+    "dist_min": 21,
+    "vizinho_treino": "usuario_20260531_180051_062.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2641_19__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 88,
+    "vizinho_treino": "externo_test_set__IMG_1903_13__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_024.jpg",
+    "classe": "R6",
+    "dist_min": 38,
+    "vizinho_treino": "professor_20260505_131719_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_092.jpg",
+    "classe": "V12",
+    "dist_min": 56,
+    "vizinho_treino": "professor_20260405_180114_003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174607.jpg",
+    "classe": "VT",
+    "dist_min": 46,
+    "vizinho_treino": "professor_20260403_174506_065.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_086.jpg",
+    "classe": "R3_R4",
+    "dist_min": 12,
+    "vizinho_treino": "usuario_20260531_180022_085.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_086.jpg",
+    "classe": "V12",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260405_180040_098.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1835_11__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 77,
+    "vizinho_treino": "externo_test_set__IMG_1845_27__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_130917.jpg",
+    "classe": "V2",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260225_130916.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1869_08__obj03.jpg",
+    "classe": "V3",
+    "dist_min": 95,
+    "vizinho_treino": "professor_IMG_6813.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1887_36__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 79,
+    "vizinho_treino": "externo_test_set__IMG_1903_17__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131759_064.jpg",
+    "classe": "R5",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260422_131759_063.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175231_014.jpg",
+    "classe": "R6",
+    "dist_min": 1,
+    "vizinho_treino": "usuario_20260531_175231_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131231.jpg",
+    "classe": "V2",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260224_161323.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_013.jpg",
+    "classe": "VT",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260403_174926_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131024.jpg",
+    "classe": "V2",
+    "dist_min": 71,
+    "vizinho_treino": "professor_20260225_131023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131029.jpg",
+    "classe": "V2",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260224_161035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112500_041.jpg",
+    "classe": "V7",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260421_112500_042.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175129(0).jpg",
+    "classe": "R6",
+    "dist_min": 9,
+    "vizinho_treino": "usuario_20260531_175128(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_020.jpg",
+    "classe": "R2",
+    "dist_min": 36,
+    "vizinho_treino": "professor_20260411_134354_086.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172242(0).jpg",
+    "classe": "V7",
+    "dist_min": 86,
+    "vizinho_treino": "professor_20260315_172501_011.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_078.jpg",
+    "classe": "VT",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260403_174506_077.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_056.jpg",
+    "classe": "R2",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260411_134354_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1857_06__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 53,
+    "vizinho_treino": "externo_train_set__IMG_1851_31__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_072.jpg",
+    "classe": "V7",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260421_112524_071.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_086.jpg",
+    "classe": "V12",
+    "dist_min": 54,
+    "vizinho_treino": "professor_20260405_180024_087.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165739_043.jpg",
+    "classe": "V3",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260222_165739_013.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174944.jpg",
+    "classe": "R1",
+    "dist_min": 6,
+    "vizinho_treino": "usuario_20260329_174950.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1854_17__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 90,
+    "vizinho_treino": "externo_train_set__IMG_2091_01__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_025.jpg",
+    "classe": "V12",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260405_175927_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_010.jpg",
+    "classe": "VT",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260403_174449_044.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_079.jpg",
+    "classe": "V12",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260405_175927_080.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260301_130023.jpg",
+    "classe": "V1",
+    "dist_min": 88,
+    "vizinho_treino": "externo_train_set__IMG_1881_24__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2644_03__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 59,
+    "vizinho_treino": "externo_train_set__IMG_1886_13__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_021.jpg",
+    "classe": "V7",
+    "dist_min": 95,
+    "vizinho_treino": "professor_20260421_113417_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_035.jpg",
+    "classe": "V12",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260405_175927_036.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1846_09__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 78,
+    "vizinho_treino": "externo_test_set__IMG_1859_09__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134149(0).jpg",
+    "classe": "R1",
+    "dist_min": 53,
+    "vizinho_treino": "usuario_IMG_20260330_071021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174806.jpg",
+    "classe": "R1",
+    "dist_min": 24,
+    "vizinho_treino": "usuario_20260329_175236_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_087.jpg",
+    "classe": "R5",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260424_131326_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_073.jpg",
+    "classe": "V12",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260405_180040_074.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_014.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134342_036.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185449(0).jpg",
+    "classe": "V2",
+    "dist_min": 85,
+    "vizinho_treino": "professor_20260222_185510.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_067.jpg",
+    "classe": "V12",
+    "dist_min": 47,
+    "vizinho_treino": "professor_20260405_180040_068.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_2885_36__obj02.jpg",
+    "classe": "V3",
+    "dist_min": 88,
+    "vizinho_treino": "externo_test_set__IMG_2096_22__obj05.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_064.jpg",
+    "classe": "R5",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260424_131336_080.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2083_38__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 70,
+    "vizinho_treino": "externo_test_set__IMG_1841_22__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_077.jpg",
+    "classe": "R5",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260423_133228_078.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_IMG_E6685.jpg",
+    "classe": "V2",
+    "dist_min": 95,
+    "vizinho_treino": "professor_20260225_131003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_075.jpg",
+    "classe": "R5",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260424_131326_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_012.jpg",
+    "classe": "VT",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260403_174926_011.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132912(0).jpg",
+    "classe": "R1",
+    "dist_min": 57,
+    "vizinho_treino": "usuario_IMG_20260330_070951.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6832.jpg",
+    "classe": "V3",
+    "dist_min": 87,
+    "vizinho_treino": "professor_IMG_6945.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180009_017.jpg",
+    "classe": "R3_R4",
+    "dist_min": 9,
+    "vizinho_treino": "usuario_20260531_180009_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_175008(0).jpg",
+    "classe": "R1",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260329_175009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175126.jpg",
+    "classe": "R6",
+    "dist_min": 22,
+    "vizinho_treino": "professor_20260505_131933.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132957_015.jpg",
+    "classe": "R1",
+    "dist_min": 62,
+    "vizinho_treino": "professor_20260323_132957_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_052.jpg",
+    "classe": "VT",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260403_174506_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133404_044.jpg",
+    "classe": "R5",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260423_133404_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_052.jpg",
+    "classe": "R5",
+    "dist_min": 59,
+    "vizinho_treino": "professor_20260422_131723_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131255_040.jpg",
+    "classe": "R5",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260424_131326_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_032.jpg",
+    "classe": "R5",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260424_131326_028.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_031.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_134342_032.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174911.jpg",
+    "classe": "R6",
+    "dist_min": 15,
+    "vizinho_treino": "usuario_20260531_174727.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\usuario_20260329_175559(0).jpg",
+    "classe": "V7",
+    "dist_min": 66,
+    "vizinho_treino": "usuario_20260329_175511.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172635.jpg",
+    "classe": "R3_R4",
+    "dist_min": 81,
+    "vizinho_treino": "usuario_20260531_180051_061.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6986.jpg",
+    "classe": "V3",
+    "dist_min": 61,
+    "vizinho_treino": "professor_IMG_6949.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_067.jpg",
+    "classe": "R6",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260531_175236_066.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_071.jpg",
+    "classe": "V12",
+    "dist_min": 64,
+    "vizinho_treino": "professor_20260405_180024_070.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174753.jpg",
+    "classe": "R1",
+    "dist_min": 28,
+    "vizinho_treino": "usuario_20260329_174956.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125609(0).jpg",
+    "classe": "V2",
+    "dist_min": 61,
+    "vizinho_treino": "professor_20260301_125609.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165454.jpg",
+    "classe": "V3",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260222_165453.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1824_21__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 59,
+    "vizinho_treino": "externo_test_set__IMG_1829_42__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_004.jpg",
+    "classe": "R2",
+    "dist_min": 1,
+    "vizinho_treino": "professor_20260411_135032_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172527_066.jpg",
+    "classe": "V7",
+    "dist_min": 45,
+    "vizinho_treino": "professor_20260315_172527_067.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162936(0).jpg",
+    "classe": "V4",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260224_163231.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134408_003.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_134408_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260308_185209.jpg",
+    "classe": "V1",
+    "dist_min": 87,
+    "vizinho_treino": "professor_20260301_125925(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131326_067.jpg",
+    "classe": "R5",
+    "dist_min": 16,
+    "vizinho_treino": "professor_20260424_131326_028.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_001.jpg",
+    "classe": "R5",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260424_131348_003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133113.jpg",
+    "classe": "R5",
+    "dist_min": 62,
+    "vizinho_treino": "professor_20260422_131746_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2103_15__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 87,
+    "vizinho_treino": "externo_train_set__IMG_1832_06__obj09.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174656.jpg",
+    "classe": "VT",
+    "dist_min": 32,
+    "vizinho_treino": "professor_20260403_174506_086.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_029.jpg",
+    "classe": "R5",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260424_131326_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131336_043.jpg",
+    "classe": "R5",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260424_131336_044.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125633.jpg",
+    "classe": "V2",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260301_125635(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_011.jpg",
+    "classe": "V12",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260405_175927_012.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165544_002.jpg",
+    "classe": "V3",
+    "dist_min": 47,
+    "vizinho_treino": "professor_20260222_165544_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173258.jpg",
+    "classe": "R1",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260405_114137_080.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_024.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_135032_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112453.jpg",
+    "classe": "V7",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260315_172501_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1849_21__obj02.jpg",
+    "classe": "V3",
+    "dist_min": 85,
+    "vizinho_treino": "externo_test_set__IMG_2086_12__obj06.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174839(1).jpg",
+    "classe": "R6",
+    "dist_min": 22,
+    "vizinho_treino": "usuario_20260531_174841(3).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_037.jpg",
+    "classe": "R6",
+    "dist_min": 18,
+    "vizinho_treino": "usuario_20260531_175236_039.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2664_16__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 58,
+    "vizinho_treino": "externo_test_set__IMG_1876_02__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_090.jpg",
+    "classe": "R2",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260411_135032_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125309.jpg",
+    "classe": "V3",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260301_125310.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_001.jpg",
+    "classe": "R3_R4",
+    "dist_min": 19,
+    "vizinho_treino": "usuario_20260531_180022_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175920.jpg",
+    "classe": "V12",
+    "dist_min": 55,
+    "vizinho_treino": "professor_20260405_175927_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_030.jpg",
+    "classe": "R2",
+    "dist_min": 0,
+    "vizinho_treino": "professor_20260411_135032_029.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_006.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134342_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_028.jpg",
+    "classe": "VT",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260403_174449_027.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_7074.jpg",
+    "classe": "V3",
+    "dist_min": 86,
+    "vizinho_treino": "professor_20260301_125451.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1835_33__obj10.jpg",
+    "classe": "V3",
+    "dist_min": 91,
+    "vizinho_treino": "professor_IMG_6712.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174650.jpg",
+    "classe": "VT",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260403_174506_074.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_027.jpg",
+    "classe": "VT",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260403_174506_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_Cópia de IMG-20260410-WA0036.jpg",
+    "classe": "R1",
+    "dist_min": 36,
+    "vizinho_treino": "usuario_IMG_20260330_070951.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260308_182944.jpg",
+    "classe": "V6",
+    "dist_min": 55,
+    "vizinho_treino": "professor_20260308_182940.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185506.jpg",
+    "classe": "V2",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260222_185529.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_004.jpg",
+    "classe": "V7",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260421_113512_003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131631_066.jpg",
+    "classe": "R5",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260422_131631_065.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185445.jpg",
+    "classe": "V2",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260222_185443.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173335.jpg",
+    "classe": "R1",
+    "dist_min": 102,
+    "vizinho_treino": "professor_20260403_173553_027.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131326_023.jpg",
+    "classe": "R5",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260424_131326_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260308_185214.jpg",
+    "classe": "V1",
+    "dist_min": 101,
+    "vizinho_treino": "professor_20260308_185202(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_054.jpg",
+    "classe": "R1",
+    "dist_min": 76,
+    "vizinho_treino": "professor_20260403_175543.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1869_33__obj00.jpg",
+    "classe": "V3",
+    "dist_min": 95,
+    "vizinho_treino": "externo_test_set__IMG_1847_29__obj09.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6934.jpg",
+    "classe": "V3",
+    "dist_min": 74,
+    "vizinho_treino": "professor_IMG_6945.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_038.jpg",
+    "classe": "R6",
+    "dist_min": 10,
+    "vizinho_treino": "usuario_20260531_175236_039.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_015.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_135032_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_054.jpg",
+    "classe": "R5",
+    "dist_min": 71,
+    "vizinho_treino": "professor_20260423_133228_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_050.jpg",
+    "classe": "VT",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260403_174506_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6958.jpg",
+    "classe": "V3",
+    "dist_min": 69,
+    "vizinho_treino": "professor_IMG_6922.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_061.jpg",
+    "classe": "R2",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260411_134418_060.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6864.jpg",
+    "classe": "V3",
+    "dist_min": 85,
+    "vizinho_treino": "professor_IMG_6887.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_046.jpg",
+    "classe": "R5",
+    "dist_min": 51,
+    "vizinho_treino": "professor_20260423_133228_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6794.jpg",
+    "classe": "V3",
+    "dist_min": 90,
+    "vizinho_treino": "professor_IMG_6715.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_060.jpg",
+    "classe": "R2",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260411_134354_061.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_174935.jpg",
+    "classe": "R1",
+    "dist_min": 34,
+    "vizinho_treino": "usuario_20260329_175010(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_081.jpg",
+    "classe": "R1",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260405_114213_082.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7092.jpg",
+    "classe": "V6",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260308_182941.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_052.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_135032_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174906_046.jpg",
+    "classe": "VT",
+    "dist_min": 62,
+    "vizinho_treino": "professor_20260403_174906_045.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_020.jpg",
+    "classe": "R2",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260411_134354_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_036.jpg",
+    "classe": "VT",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260403_174449_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131718_002.jpg",
+    "classe": "R5",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260422_131718_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132821.jpg",
+    "classe": "R1",
+    "dist_min": 50,
+    "vizinho_treino": "professor_20260405_114213_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7097.jpg",
+    "classe": "V6",
+    "dist_min": 69,
+    "vizinho_treino": "professor_20260224_163454.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133356_029.jpg",
+    "classe": "R5",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260424_131326_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_073.jpg",
+    "classe": "VT",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260403_174506_082.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162936.jpg",
+    "classe": "V4",
+    "dist_min": 98,
+    "vizinho_treino": "professor_20260224_163231.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7108.jpg",
+    "classe": "V6",
+    "dist_min": 71,
+    "vizinho_treino": "professor_20260224_163455.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_043.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_134342_044.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_007.jpg",
+    "classe": "V7",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260421_113447_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161623(0).jpg",
+    "classe": "V2",
+    "dist_min": 92,
+    "vizinho_treino": "professor_20260224_161632.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112447(0).jpg",
+    "classe": "V7",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260421_112447.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_019.jpg",
+    "classe": "R1",
+    "dist_min": 33,
+    "vizinho_treino": "professor_20260405_114213_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6671.jpg",
+    "classe": "V3",
+    "dist_min": 73,
+    "vizinho_treino": "professor_IMG_6680.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_099.jpg",
+    "classe": "V12",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260405_180024_098.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172557.jpg",
+    "classe": "R3_R4",
+    "dist_min": 45,
+    "vizinho_treino": "usuario_20260403_172555.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1902_39__obj04.jpg",
+    "classe": "V1",
+    "dist_min": 75,
+    "vizinho_treino": "externo_test_set__IMG_1849_29__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_018.jpg",
+    "classe": "R6",
+    "dist_min": 22,
+    "vizinho_treino": "professor_20260505_131739_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_019.jpg",
+    "classe": "V7",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260421_113512_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_074.jpg",
+    "classe": "R3_R4",
+    "dist_min": 7,
+    "vizinho_treino": "usuario_20260531_180022_073.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132827(0).jpg",
+    "classe": "R1",
+    "dist_min": 49,
+    "vizinho_treino": "professor_20260405_114213_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_032.jpg",
+    "classe": "V12",
+    "dist_min": 42,
+    "vizinho_treino": "professor_20260405_175927_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174854(1).jpg",
+    "classe": "R6",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260505_131933.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7098.jpg",
+    "classe": "V6",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260224_163454.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131759_052.jpg",
+    "classe": "R5",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260422_131759_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125551.jpg",
+    "classe": "V3",
+    "dist_min": 97,
+    "vizinho_treino": "professor_IMG_6737.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1846_36__obj08.jpg",
+    "classe": "V3",
+    "dist_min": 86,
+    "vizinho_treino": "professor_20260222_165739_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_059.jpg",
+    "classe": "R6",
+    "dist_min": 10,
+    "vizinho_treino": "usuario_20260531_175236_060.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7131.jpg",
+    "classe": "V6",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260308_183000(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131653_052.jpg",
+    "classe": "R5",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260422_131653_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_044.jpg",
+    "classe": "V7",
+    "dist_min": 41,
+    "vizinho_treino": "professor_20260421_113417_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_052.jpg",
+    "classe": "R2",
+    "dist_min": 8,
+    "vizinho_treino": "professor_20260411_134448_053.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1872_07__obj05.jpg",
+    "classe": "V3",
+    "dist_min": 91,
+    "vizinho_treino": "externo_test_set__IMG_1847_11__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_072.jpg",
+    "classe": "V12",
+    "dist_min": 76,
+    "vizinho_treino": "professor_20260405_180024_053.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131733.jpg",
+    "classe": "R6",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260505_131734.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260224_163506.jpg",
+    "classe": "V6",
+    "dist_min": 85,
+    "vizinho_treino": "professor_20260308_182835.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6803.jpg",
+    "classe": "V3",
+    "dist_min": 93,
+    "vizinho_treino": "professor_IMG_6820.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175217.jpg",
+    "classe": "R6",
+    "dist_min": 19,
+    "vizinho_treino": "usuario_20260531_174938(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_080.jpg",
+    "classe": "VT",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260403_174506_079.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_084.jpg",
+    "classe": "R1",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260405_114137_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_049.jpg",
+    "classe": "R5",
+    "dist_min": 47,
+    "vizinho_treino": "professor_20260422_131723_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174614_017.jpg",
+    "classe": "VT",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260403_174614_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_069.jpg",
+    "classe": "R1",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260405_114052_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174651.jpg",
+    "classe": "VT",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260403_174657.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174855(1).jpg",
+    "classe": "R6",
+    "dist_min": 17,
+    "vizinho_treino": "usuario_20260531_174855(2).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132957_019.jpg",
+    "classe": "R1",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260323_132957_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6903.jpg",
+    "classe": "V3",
+    "dist_min": 70,
+    "vizinho_treino": "professor_IMG_6677.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_027.jpg",
+    "classe": "R2",
+    "dist_min": 0,
+    "vizinho_treino": "professor_20260411_135032_028.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114005_038.jpg",
+    "classe": "R1",
+    "dist_min": 61,
+    "vizinho_treino": "professor_20260405_114005_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185452(0).jpg",
+    "classe": "V2",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260222_185443(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174614_005.jpg",
+    "classe": "VT",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260403_174506_088.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165522.jpg",
+    "classe": "V3",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260222_165531_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_084.jpg",
+    "classe": "R6",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260505_131739_085.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131336_004.jpg",
+    "classe": "R5",
+    "dist_min": 0,
+    "vizinho_treino": "professor_20260424_131336_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_7033.jpg",
+    "classe": "V3",
+    "dist_min": 78,
+    "vizinho_treino": "professor_IMG_6929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131653_078.jpg",
+    "classe": "R5",
+    "dist_min": 75,
+    "vizinho_treino": "professor_20260422_131653_041.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133014(0).jpg",
+    "classe": "R5",
+    "dist_min": 86,
+    "vizinho_treino": "professor_20260422_131702_030.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165739_048.jpg",
+    "classe": "V3",
+    "dist_min": 49,
+    "vizinho_treino": "professor_20260222_165739_049.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_022.jpg",
+    "classe": "VT",
+    "dist_min": 58,
+    "vizinho_treino": "professor_20260403_174506_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_058.jpg",
+    "classe": "R5",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260424_131348_059.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_020.jpg",
+    "classe": "V7",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260421_113447_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172610(0).jpg",
+    "classe": "R3_R4",
+    "dist_min": 86,
+    "vizinho_treino": "usuario_20260531_180022_089.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174906_025.jpg",
+    "classe": "VT",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260403_174654.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131025.jpg",
+    "classe": "V2",
+    "dist_min": 89,
+    "vizinho_treino": "professor_20260225_131023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_047.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_134342_046.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_061.jpg",
+    "classe": "V7",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260421_113512_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1891_42__obj04.jpg",
+    "classe": "V1",
+    "dist_min": 58,
+    "vizinho_treino": "externo_test_set__IMG_2086_40__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6967.jpg",
+    "classe": "V3",
+    "dist_min": 73,
+    "vizinho_treino": "professor_IMG_6945.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1845_01__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 76,
+    "vizinho_treino": "externo_test_set__IMG_2096_32__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_008.jpg",
+    "classe": "R1",
+    "dist_min": 82,
+    "vizinho_treino": "professor_20260317_134243_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174914(0).jpg",
+    "classe": "R6",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260531_174914.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185532.jpg",
+    "classe": "V2",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260224_160929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_013.jpg",
+    "classe": "VT",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260403_174441.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185451.jpg",
+    "classe": "V2",
+    "dist_min": 87,
+    "vizinho_treino": "professor_20260222_185452.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161623.jpg",
+    "classe": "V2",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260225_130923.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131756.jpg",
+    "classe": "R6",
+    "dist_min": 74,
+    "vizinho_treino": "usuario_20260531_174856(2).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_054.jpg",
+    "classe": "V12",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260405_175927_053.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112509_036.jpg",
+    "classe": "V7",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260421_112509_037.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_063.jpg",
+    "classe": "V7",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260421_113512_064.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1869_36__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 55,
+    "vizinho_treino": "externo_test_set__IMG_2715_39__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134139.jpg",
+    "classe": "R1",
+    "dist_min": 48,
+    "vizinho_treino": "usuario_IMG_20260330_071017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_049.jpg",
+    "classe": "V12",
+    "dist_min": 51,
+    "vizinho_treino": "professor_20260405_180114_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_068.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_135032_067.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131336_093.jpg",
+    "classe": "R5",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260424_131336_032.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_023.jpg",
+    "classe": "V7",
+    "dist_min": 96,
+    "vizinho_treino": "professor_20260421_112524_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_012.jpg",
+    "classe": "R2",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260411_135032_011.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174857(0).jpg",
+    "classe": "R6",
+    "dist_min": 16,
+    "vizinho_treino": "usuario_20260531_174937(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2083_14__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 61,
+    "vizinho_treino": "externo_test_set__IMG_1839_20__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_056.jpg",
+    "classe": "V12",
+    "dist_min": 58,
+    "vizinho_treino": "professor_20260405_180040_057.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_007.jpg",
+    "classe": "V7",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260315_172501_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112500_022.jpg",
+    "classe": "V7",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260421_112500_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131702_028.jpg",
+    "classe": "R5",
+    "dist_min": 59,
+    "vizinho_treino": "professor_20260424_131255_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_091.jpg",
+    "classe": "V12",
+    "dist_min": 54,
+    "vizinho_treino": "professor_20260405_180114_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_059.jpg",
+    "classe": "R2",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260411_135032_062.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125310(0).jpg",
+    "classe": "V3",
+    "dist_min": 84,
+    "vizinho_treino": "professor_20260301_125310.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172603.jpg",
+    "classe": "R3_R4",
+    "dist_min": 82,
+    "vizinho_treino": "usuario_20260403_172621(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174652.jpg",
+    "classe": "VT",
+    "dist_min": 33,
+    "vizinho_treino": "professor_20260403_174506_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_175231.jpg",
+    "classe": "R1",
+    "dist_min": 35,
+    "vizinho_treino": "usuario_20260329_175009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161036.jpg",
+    "classe": "V2",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260224_161037.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172321(0).jpg",
+    "classe": "V7",
+    "dist_min": 93,
+    "vizinho_treino": "professor_20260315_172512.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6879.jpg",
+    "classe": "V3",
+    "dist_min": 88,
+    "vizinho_treino": "professor_IMG_6773.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_005.jpg",
+    "classe": "R3_R4",
+    "dist_min": 2,
+    "vizinho_treino": "usuario_20260531_180051_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_077.jpg",
+    "classe": "V12",
+    "dist_min": 45,
+    "vizinho_treino": "professor_20260405_180114_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_072.jpg",
+    "classe": "R6",
+    "dist_min": 33,
+    "vizinho_treino": "usuario_20260531_174727.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_039.jpg",
+    "classe": "V7",
+    "dist_min": 42,
+    "vizinho_treino": "professor_20260421_112524_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_027.jpg",
+    "classe": "V12",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260405_180114_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_2083_34__obj15.jpg",
+    "classe": "V3",
+    "dist_min": 90,
+    "vizinho_treino": "professor_IMG_6942.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131702_032.jpg",
+    "classe": "R5",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260422_131702_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_041.jpg",
+    "classe": "V7",
+    "dist_min": 63,
+    "vizinho_treino": "professor_20260421_113417_039.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_043.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134448_044.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131746_036.jpg",
+    "classe": "R5",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260422_131746_028.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165739_037.jpg",
+    "classe": "V3",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260222_165601.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134441(0).jpg",
+    "classe": "R1",
+    "dist_min": 69,
+    "vizinho_treino": "professor_20260323_132838.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161243.jpg",
+    "classe": "V2",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260225_130930.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_039.jpg",
+    "classe": "R2",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260411_135032_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131732_052.jpg",
+    "classe": "R5",
+    "dist_min": 73,
+    "vizinho_treino": "professor_20260423_133404_030.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131642_046.jpg",
+    "classe": "R5",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260423_133356_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_051.jpg",
+    "classe": "V7",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260421_113417_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131216.jpg",
+    "classe": "V2",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260222_185422.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_015.jpg",
+    "classe": "V12",
+    "dist_min": 46,
+    "vizinho_treino": "professor_20260405_180040_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131702_022.jpg",
+    "classe": "R5",
+    "dist_min": 52,
+    "vizinho_treino": "professor_20260424_131336_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_009.jpg",
+    "classe": "V7",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260421_113512_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_020.jpg",
+    "classe": "VT",
+    "dist_min": 61,
+    "vizinho_treino": "professor_20260403_174506_059.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112500_056.jpg",
+    "classe": "V7",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260421_112500_058.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_081.jpg",
+    "classe": "VT",
+    "dist_min": 9,
+    "vizinho_treino": "professor_20260403_174506_082.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_070.jpg",
+    "classe": "VT",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260403_174506_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173607_002.jpg",
+    "classe": "R1",
+    "dist_min": 6,
+    "vizinho_treino": "professor_20260403_173607_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_085.jpg",
+    "classe": "R6",
+    "dist_min": 5,
+    "vizinho_treino": "usuario_20260531_175243_086.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_039.jpg",
+    "classe": "VT",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260403_174559.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1870_05__obj04.jpg",
+    "classe": "V4",
+    "dist_min": 89,
+    "vizinho_treino": "professor_20260224_162926.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260315_172915.jpg",
+    "classe": "V6",
+    "dist_min": 101,
+    "vizinho_treino": "professor_20260315_172910.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_006.jpg",
+    "classe": "R6",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260505_131739_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260308_182959.jpg",
+    "classe": "V6",
+    "dist_min": 93,
+    "vizinho_treino": "professor_20260308_182948.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2644_15__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 55,
+    "vizinho_treino": "externo_test_set__IMG_1846_37__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162330.jpg",
+    "classe": "V4",
+    "dist_min": 65,
+    "vizinho_treino": "professor_20260224_162326.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2638_17__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 72,
+    "vizinho_treino": "externo_train_set__IMG_1880_01__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7144.jpg",
+    "classe": "V6",
+    "dist_min": 79,
+    "vizinho_treino": "professor_20260308_183002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114052_005.jpg",
+    "classe": "R1",
+    "dist_min": 65,
+    "vizinho_treino": "professor_20260323_132850.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132938_012.jpg",
+    "classe": "R1",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260323_132822.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_007.jpg",
+    "classe": "VT",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260403_174506_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_029.jpg",
+    "classe": "V7",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260421_113417_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_042.jpg",
+    "classe": "V7",
+    "dist_min": 57,
+    "vizinho_treino": "professor_20260421_113447_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112449(0).jpg",
+    "classe": "V7",
+    "dist_min": 79,
+    "vizinho_treino": "professor_20260421_112508.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_train_set__IMG_1855_06__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 66,
+    "vizinho_treino": "externo_test_set__IMG_1858_07__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172527_034.jpg",
+    "classe": "V7",
+    "dist_min": 32,
+    "vizinho_treino": "professor_20260315_172527_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165531_009.jpg",
+    "classe": "V3",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260222_165531_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2103_14__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 64,
+    "vizinho_treino": "externo_test_set__IMG_1829_20__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174614_010.jpg",
+    "classe": "VT",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260403_174614_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_014.jpg",
+    "classe": "R2",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260411_134418_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112509_006.jpg",
+    "classe": "V7",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260421_112509_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_013.jpg",
+    "classe": "R2",
+    "dist_min": 34,
+    "vizinho_treino": "professor_20260411_134448_012.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_006.jpg",
+    "classe": "R6",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260505_131719_007.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_036.jpg",
+    "classe": "V12",
+    "dist_min": 62,
+    "vizinho_treino": "professor_20260405_180040_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_130921.jpg",
+    "classe": "V2",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260225_130902.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_034.jpg",
+    "classe": "R2",
+    "dist_min": 8,
+    "vizinho_treino": "professor_20260411_134448_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131237.jpg",
+    "classe": "V2",
+    "dist_min": 99,
+    "vizinho_treino": "professor_20260225_131124.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_train_set__IMG_1833_38__obj05.jpg",
+    "classe": "V1",
+    "dist_min": 67,
+    "vizinho_treino": "externo_train_set__IMG_1863_37__obj14.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_056.jpg",
+    "classe": "R2",
+    "dist_min": 9,
+    "vizinho_treino": "professor_20260411_134448_057.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174644.jpg",
+    "classe": "VT",
+    "dist_min": 50,
+    "vizinho_treino": "professor_20260403_174614_003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_019.jpg",
+    "classe": "R1",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260405_114137_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_008.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134448_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7091.jpg",
+    "classe": "V6",
+    "dist_min": 75,
+    "vizinho_treino": "professor_20260308_182941(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_004.jpg",
+    "classe": "R6",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260505_131719_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131631_085.jpg",
+    "classe": "R5",
+    "dist_min": 96,
+    "vizinho_treino": "professor_20260423_133221_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114005_007.jpg",
+    "classe": "R1",
+    "dist_min": 84,
+    "vizinho_treino": "professor_20260323_132904.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_043.jpg",
+    "classe": "R1",
+    "dist_min": 16,
+    "vizinho_treino": "professor_20260405_114213_042.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125606.jpg",
+    "classe": "V2",
+    "dist_min": 108,
+    "vizinho_treino": "professor_20260225_131151.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162257.jpg",
+    "classe": "V4",
+    "dist_min": 101,
+    "vizinho_treino": "externo_test_set__IMG_1891_35__obj08.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7096.jpg",
+    "classe": "V6",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260308_182941(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2096_40__obj07.jpg",
+    "classe": "V1",
+    "dist_min": 76,
+    "vizinho_treino": "externo_test_set__IMG_1847_13__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_020.jpg",
+    "classe": "R1",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260405_114137_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1854_41__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 62,
+    "vizinho_treino": "externo_test_set__IMG_2639_18__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_068.jpg",
+    "classe": "V12",
+    "dist_min": 40,
+    "vizinho_treino": "professor_20260405_175927_076.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_038.jpg",
+    "classe": "V7",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260315_172501_037.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2638_29__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 56,
+    "vizinho_treino": "externo_train_set__IMG_1866_06__obj05.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_044.jpg",
+    "classe": "R5",
+    "dist_min": 62,
+    "vizinho_treino": "professor_20260423_133228_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172239(0).jpg",
+    "classe": "V7",
+    "dist_min": 100,
+    "vizinho_treino": "professor_20260421_113512_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173546_010.jpg",
+    "classe": "R1",
+    "dist_min": 99,
+    "vizinho_treino": "professor_20260403_173304.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6668.jpg",
+    "classe": "V3",
+    "dist_min": 96,
+    "vizinho_treino": "professor_IMG_6773.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180308_036.jpg",
+    "classe": "R3_R4",
+    "dist_min": 26,
+    "vizinho_treino": "usuario_20260531_180308_037.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_068.jpg",
+    "classe": "R6",
+    "dist_min": 10,
+    "vizinho_treino": "usuario_20260531_175243_069.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174606.jpg",
+    "classe": "VT",
+    "dist_min": 60,
+    "vizinho_treino": "professor_20260403_174603.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2578_31__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 58,
+    "vizinho_treino": "externo_test_set__IMG_1846_35__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131008.jpg",
+    "classe": "V2",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260224_160929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180009_023.jpg",
+    "classe": "R3_R4",
+    "dist_min": 6,
+    "vizinho_treino": "usuario_20260531_180009_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174906_036.jpg",
+    "classe": "VT",
+    "dist_min": 68,
+    "vizinho_treino": "professor_20260403_174906_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125621.jpg",
+    "classe": "V2",
+    "dist_min": 99,
+    "vizinho_treino": "professor_20260301_125622.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1845_31__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 69,
+    "vizinho_treino": "externo_test_set__IMG_1841_35__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260308_185153.jpg",
+    "classe": "V1",
+    "dist_min": 91,
+    "vizinho_treino": "externo_test_set__IMG_1846_34__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_054.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_135032_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_079.jpg",
+    "classe": "R2",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260411_134354_080.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131732_040.jpg",
+    "classe": "R5",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260422_131732_041.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_022.jpg",
+    "classe": "R6",
+    "dist_min": 19,
+    "vizinho_treino": "professor_20260505_131739_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1865_18__obj00.jpg",
+    "classe": "V3",
+    "dist_min": 77,
+    "vizinho_treino": "externo_test_set__IMG_1847_28__obj06.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173546_043.jpg",
+    "classe": "R1",
+    "dist_min": 60,
+    "vizinho_treino": "professor_20260403_173546_041.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_005.jpg",
+    "classe": "R5",
+    "dist_min": 9,
+    "vizinho_treino": "professor_20260423_133228_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6861.jpg",
+    "classe": "V3",
+    "dist_min": 91,
+    "vizinho_treino": "professor_IMG_6662.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172717(0).jpg",
+    "classe": "R3_R4",
+    "dist_min": 93,
+    "vizinho_treino": "usuario_20260403_172718.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_016.jpg",
+    "classe": "R2",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260411_135032_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1846_21__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 68,
+    "vizinho_treino": "externo_test_set__IMG_2787_37__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6894.jpg",
+    "classe": "V3",
+    "dist_min": 86,
+    "vizinho_treino": "professor_IMG_6909.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_097.jpg",
+    "classe": "R3_R4",
+    "dist_min": 17,
+    "vizinho_treino": "usuario_20260531_180022_098.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125616(0).jpg",
+    "classe": "V2",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260301_125617.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_043.jpg",
+    "classe": "V7",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260315_172501_042.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180008.jpg",
+    "classe": "R3_R4",
+    "dist_min": 14,
+    "vizinho_treino": "usuario_20260531_180009_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_044.jpg",
+    "classe": "R6",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260505_131933.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_040.jpg",
+    "classe": "R6",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260531_175243_039.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6717.jpg",
+    "classe": "V3",
+    "dist_min": 50,
+    "vizinho_treino": "professor_IMG_6715.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172315.jpg",
+    "classe": "V7",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260315_172501_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131753.jpg",
+    "classe": "R6",
+    "dist_min": 55,
+    "vizinho_treino": "professor_20260505_131749.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165739_068.jpg",
+    "classe": "V3",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260222_165739_069.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_088.jpg",
+    "classe": "R2",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260411_134342_089.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161345.jpg",
+    "classe": "V2",
+    "dist_min": 65,
+    "vizinho_treino": "professor_20260222_185410.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1897_31__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 63,
+    "vizinho_treino": "externo_test_set__IMG_2639_29__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172606.jpg",
+    "classe": "R3_R4",
+    "dist_min": 89,
+    "vizinho_treino": "usuario_20260403_172610.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_046.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_135032_047.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_095.jpg",
+    "classe": "R2",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260411_135032_094.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_099.jpg",
+    "classe": "R6",
+    "dist_min": 17,
+    "vizinho_treino": "usuario_20260531_175236_100.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173334(0).jpg",
+    "classe": "R1",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260405_114052_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174558(0).jpg",
+    "classe": "VT",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260403_174506_091.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_028.jpg",
+    "classe": "V7",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260421_113417_026.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_014.jpg",
+    "classe": "R1",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260405_114137_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_175007(0).jpg",
+    "classe": "R1",
+    "dist_min": 28,
+    "vizinho_treino": "usuario_20260329_174951(1).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131051.jpg",
+    "classe": "V2",
+    "dist_min": 71,
+    "vizinho_treino": "professor_20260225_131052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_017.jpg",
+    "classe": "R6",
+    "dist_min": 6,
+    "vizinho_treino": "usuario_20260531_175236_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_20260329_175053.jpg",
+    "classe": "R1",
+    "dist_min": 19,
+    "vizinho_treino": "usuario_20260329_175010(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133356_061.jpg",
+    "classe": "R5",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260423_133356_062.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125623.jpg",
+    "classe": "V2",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260301_125614.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131759_017.jpg",
+    "classe": "R5",
+    "dist_min": 36,
+    "vizinho_treino": "professor_20260422_131759_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1829_41__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 51,
+    "vizinho_treino": "externo_test_set__IMG_1891_24__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1865_31__obj00.jpg",
+    "classe": "V3",
+    "dist_min": 86,
+    "vizinho_treino": "professor_IMG_6770.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_133641_016.jpg",
+    "classe": "R1",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260323_133641_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_044.jpg",
+    "classe": "R5",
+    "dist_min": 42,
+    "vizinho_treino": "professor_20260422_131723_045.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_032.jpg",
+    "classe": "V12",
+    "dist_min": 47,
+    "vizinho_treino": "professor_20260405_180024_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_021.jpg",
+    "classe": "V12",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260405_175927_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131326_056.jpg",
+    "classe": "R5",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260424_131326_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_051.jpg",
+    "classe": "R6",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260531_175243_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_082.jpg",
+    "classe": "R6",
+    "dist_min": 23,
+    "vizinho_treino": "usuario_20260531_175236_079.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1900_22__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 45,
+    "vizinho_treino": "externo_test_set__IMG_1841_30__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_133641_039.jpg",
+    "classe": "R1",
+    "dist_min": 69,
+    "vizinho_treino": "professor_20260323_132842.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172527_054.jpg",
+    "classe": "V7",
+    "dist_min": 36,
+    "vizinho_treino": "professor_20260315_172527_053.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260224_163444.jpg",
+    "classe": "V7",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260421_112509_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1840_20__obj09.jpg",
+    "classe": "V3",
+    "dist_min": 89,
+    "vizinho_treino": "externo_test_set__IMG_1829_11__obj35.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_056.jpg",
+    "classe": "R6",
+    "dist_min": 10,
+    "vizinho_treino": "usuario_20260531_175243_057.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7115.jpg",
+    "classe": "V6",
+    "dist_min": 79,
+    "vizinho_treino": "professor_IMG_7126.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112509_031.jpg",
+    "classe": "V7",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260421_112509_030.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1872_14__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 59,
+    "vizinho_treino": "externo_train_set__IMG_1843_31__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173338.jpg",
+    "classe": "R1",
+    "dist_min": 89,
+    "vizinho_treino": "usuario_20260329_174932(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162247.jpg",
+    "classe": "V4",
+    "dist_min": 87,
+    "vizinho_treino": "professor_20260224_162319.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_099.jpg",
+    "classe": "R2",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260411_134418_100.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7086.jpg",
+    "classe": "V6",
+    "dist_min": 80,
+    "vizinho_treino": "professor_IMG_7161.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_050.jpg",
+    "classe": "R6",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260531_175236_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1840_13__obj17.jpg",
+    "classe": "V4",
+    "dist_min": 92,
+    "vizinho_treino": "externo_test_set__IMG_2096_09__obj09.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131033.jpg",
+    "classe": "V2",
+    "dist_min": 86,
+    "vizinho_treino": "professor_20260225_131300.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_7047.jpg",
+    "classe": "V3",
+    "dist_min": 84,
+    "vizinho_treino": "professor_IMG_7017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_010.jpg",
+    "classe": "R1",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260405_114137_011.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_100.jpg",
+    "classe": "V12",
+    "dist_min": 54,
+    "vizinho_treino": "professor_20260405_180114_086.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174439.jpg",
+    "classe": "VT",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260403_174506_065.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\usuario_IMG_20260330_071111.jpg",
+    "classe": "R1",
+    "dist_min": 16,
+    "vizinho_treino": "usuario_IMG_20260330_070951.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_066.jpg",
+    "classe": "V7",
+    "dist_min": 49,
+    "vizinho_treino": "professor_20260421_113417_065.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131326_016.jpg",
+    "classe": "R5",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260424_131326_019.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_047.jpg",
+    "classe": "VT",
+    "dist_min": 32,
+    "vizinho_treino": "professor_20260403_174506_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_012.jpg",
+    "classe": "R6",
+    "dist_min": 25,
+    "vizinho_treino": "professor_20260505_131739_013.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133005.jpg",
+    "classe": "R5",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260422_131718_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260301_130044.jpg",
+    "classe": "V1",
+    "dist_min": 101,
+    "vizinho_treino": "externo_test_set__IMG_1829_08__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114052_027.jpg",
+    "classe": "R1",
+    "dist_min": 80,
+    "vizinho_treino": "professor_20260405_114052_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134438.jpg",
+    "classe": "R1",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260403_173344.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_040.jpg",
+    "classe": "V12",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260405_180040_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_037.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_135032_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1839_37__obj00.jpg",
+    "classe": "V3",
+    "dist_min": 92,
+    "vizinho_treino": "professor_IMG_7024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174641.jpg",
+    "classe": "VT",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260403_174442.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_076.jpg",
+    "classe": "R2",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260411_135032_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6664.jpg",
+    "classe": "V3",
+    "dist_min": 87,
+    "vizinho_treino": "professor_IMG_6662.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_077.jpg",
+    "classe": "R2",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260411_134418_078.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125634.jpg",
+    "classe": "V2",
+    "dist_min": 92,
+    "vizinho_treino": "professor_20260225_130930.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_048.jpg",
+    "classe": "R6",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260505_131719_047.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174938(2).jpg",
+    "classe": "R6",
+    "dist_min": 9,
+    "vizinho_treino": "usuario_20260531_174725.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_070.jpg",
+    "classe": "R2",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260411_134418_069.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1841_02__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 72,
+    "vizinho_treino": "externo_test_set__IMG_2715_39__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1829_35__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 71,
+    "vizinho_treino": "externo_test_set__IMG_1891_24__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1824_13__obj21.jpg",
+    "classe": "V3",
+    "dist_min": 96,
+    "vizinho_treino": "externo_test_set__IMG_2097_18__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_018.jpg",
+    "classe": "VT",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260403_174506_087.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_007.jpg",
+    "classe": "R2",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260411_134354_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_035.jpg",
+    "classe": "R2",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260411_134448_036.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_061.jpg",
+    "classe": "R2",
+    "dist_min": 8,
+    "vizinho_treino": "professor_20260411_134448_060.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_057.jpg",
+    "classe": "VT",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260403_174506_058.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131718_025.jpg",
+    "classe": "R5",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260422_131653_047.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165544_018.jpg",
+    "classe": "V3",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260222_165544_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131732_001.jpg",
+    "classe": "R5",
+    "dist_min": 72,
+    "vizinho_treino": "professor_20260424_131348_036.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_078.jpg",
+    "classe": "V7",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260421_112524_077.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_058.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_135032_056.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112540_008.jpg",
+    "classe": "V7",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260421_112540_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132926.jpg",
+    "classe": "R1",
+    "dist_min": 61,
+    "vizinho_treino": "usuario_IMG_20260330_071017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131935.jpg",
+    "classe": "R6",
+    "dist_min": 25,
+    "vizinho_treino": "usuario_20260531_175126(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165717.jpg",
+    "classe": "V3",
+    "dist_min": 87,
+    "vizinho_treino": "professor_20260222_165739_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1841_12__obj01.jpg",
+    "classe": "V4",
+    "dist_min": 104,
+    "vizinho_treino": "externo_test_set__IMG_1846_13__obj07.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172628(0).jpg",
+    "classe": "R3_R4",
+    "dist_min": 91,
+    "vizinho_treino": "usuario_20260403_172650(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131823_001.jpg",
+    "classe": "R6",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260505_131823_003.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6865.jpg",
+    "classe": "V3",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260222_165544_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131702_017.jpg",
+    "classe": "R5",
+    "dist_min": 43,
+    "vizinho_treino": "professor_20260423_133404_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1829_41__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 73,
+    "vizinho_treino": "externo_test_set__IMG_2639_08__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173402_002.jpg",
+    "classe": "R1",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260403_173402_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_087.jpg",
+    "classe": "V12",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260405_180114_073.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_2578_39__obj10.jpg",
+    "classe": "V4",
+    "dist_min": 89,
+    "vizinho_treino": "externo_test_set__IMG_1873_05__obj11.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_train_set__IMG_1867_06__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 82,
+    "vizinho_treino": "externo_test_set__IMG_1840_21__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173407_003.jpg",
+    "classe": "R1",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260403_173407_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_train_set__IMG_2883_06__obj00.jpg",
+    "classe": "V4",
+    "dist_min": 83,
+    "vizinho_treino": "externo_test_set__IMG_1846_13__obj07.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1824_10__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 49,
+    "vizinho_treino": "externo_test_set__IMG_2645_03__obj11.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7088.jpg",
+    "classe": "V6",
+    "dist_min": 89,
+    "vizinho_treino": "professor_20260308_182948.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_047.jpg",
+    "classe": "R6",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260531_175243_046.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172644.jpg",
+    "classe": "R3_R4",
+    "dist_min": 77,
+    "vizinho_treino": "usuario_20260403_172557(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_019.jpg",
+    "classe": "V7",
+    "dist_min": 85,
+    "vizinho_treino": "professor_20260421_113417_075.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_084.jpg",
+    "classe": "R6",
+    "dist_min": 16,
+    "vizinho_treino": "usuario_20260531_175243_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1841_32__obj09.jpg",
+    "classe": "V4",
+    "dist_min": 84,
+    "vizinho_treino": "usuario_Cópia de IMG-20260410-WA0032.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_084.jpg",
+    "classe": "R2",
+    "dist_min": 6,
+    "vizinho_treino": "professor_20260411_135032_085.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260224_163451.jpg",
+    "classe": "V6",
+    "dist_min": 82,
+    "vizinho_treino": "professor_20260308_182835.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_039.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134342_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_072.jpg",
+    "classe": "V12",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260405_175927_071.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7129.jpg",
+    "classe": "V6",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260308_182941.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_088.jpg",
+    "classe": "V12",
+    "dist_min": 48,
+    "vizinho_treino": "professor_20260405_180114_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132957_003.jpg",
+    "classe": "R1",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260323_132957_001.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6686.jpg",
+    "classe": "V3",
+    "dist_min": 74,
+    "vizinho_treino": "professor_IMG_6694.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_073.jpg",
+    "classe": "V12",
+    "dist_min": 32,
+    "vizinho_treino": "professor_20260405_175927_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180206_066.jpg",
+    "classe": "R3_R4",
+    "dist_min": 18,
+    "vizinho_treino": "usuario_20260531_180206_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134159_009.jpg",
+    "classe": "R1",
+    "dist_min": 61,
+    "vizinho_treino": "usuario_IMG_20260330_071004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_001.jpg",
+    "classe": "V12",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260405_175927_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260301_130001.jpg",
+    "classe": "V1",
+    "dist_min": 91,
+    "vizinho_treino": "externo_test_set__IMG_1854_14__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114005_050.jpg",
+    "classe": "R1",
+    "dist_min": 55,
+    "vizinho_treino": "professor_20260405_114005_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_079.jpg",
+    "classe": "R3_R4",
+    "dist_min": 15,
+    "vizinho_treino": "usuario_20260531_180051_059.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_003.jpg",
+    "classe": "V7",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260315_172501_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_080.jpg",
+    "classe": "R5",
+    "dist_min": 21,
+    "vizinho_treino": "professor_20260424_131326_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173407_016.jpg",
+    "classe": "R1",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260403_173407_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134243_003.jpg",
+    "classe": "R1",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260317_134243_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131336_011.jpg",
+    "classe": "R5",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260424_131336_012.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172707.jpg",
+    "classe": "R3_R4",
+    "dist_min": 99,
+    "vizinho_treino": "usuario_20260403_172708(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174854(2).jpg",
+    "classe": "R6",
+    "dist_min": 22,
+    "vizinho_treino": "usuario_20260531_174933(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131718_053.jpg",
+    "classe": "R5",
+    "dist_min": 76,
+    "vizinho_treino": "professor_20260422_131723_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172312(0).jpg",
+    "classe": "V7",
+    "dist_min": 103,
+    "vizinho_treino": "professor_20260315_172527_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133107.jpg",
+    "classe": "R5",
+    "dist_min": 70,
+    "vizinho_treino": "professor_20260422_131759_041.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_049.jpg",
+    "classe": "R6",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260531_175243_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131240.jpg",
+    "classe": "V2",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260225_131241.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_034.jpg",
+    "classe": "V12",
+    "dist_min": 43,
+    "vizinho_treino": "professor_20260405_180040_035.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_163145.jpg",
+    "classe": "V4",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260224_163142.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_004.jpg",
+    "classe": "V7",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260315_172501_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1870_23__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 61,
+    "vizinho_treino": "externo_train_set__IMG_1899_37__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1841_19__obj20.jpg",
+    "classe": "V3",
+    "dist_min": 89,
+    "vizinho_treino": "externo_test_set__IMG_2099_37__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125319.jpg",
+    "classe": "V3",
+    "dist_min": 79,
+    "vizinho_treino": "professor_IMG_6929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133228_020.jpg",
+    "classe": "R5",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260423_133356_031.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_023.jpg",
+    "classe": "V7",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260421_113417_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6917.jpg",
+    "classe": "V3",
+    "dist_min": 72,
+    "vizinho_treino": "professor_IMG_6972.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172427(0).jpg",
+    "classe": "V7",
+    "dist_min": 101,
+    "vizinho_treino": "professor_20260315_172254.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1824_42__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 79,
+    "vizinho_treino": "externo_test_set__IMG_1847_25__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132908.jpg",
+    "classe": "R1",
+    "dist_min": 50,
+    "vizinho_treino": "usuario_IMG_20260330_071017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260301_125623(0).jpg",
+    "classe": "V2",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260301_125643.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_037.jpg",
+    "classe": "VT",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260403_174506_083.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260222_185434.jpg",
+    "classe": "V2",
+    "dist_min": 103,
+    "vizinho_treino": "professor_20260222_185424.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_016.jpg",
+    "classe": "VT",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260403_174506_017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112500_076.jpg",
+    "classe": "V7",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260421_112500_077.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_7014.jpg",
+    "classe": "V3",
+    "dist_min": 73,
+    "vizinho_treino": "professor_IMG_7015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6914.jpg",
+    "classe": "V3",
+    "dist_min": 74,
+    "vizinho_treino": "professor_IMG_6922.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1839_39__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 75,
+    "vizinho_treino": "externo_test_set__IMG_1840_39__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175134.jpg",
+    "classe": "R6",
+    "dist_min": 19,
+    "vizinho_treino": "usuario_20260531_175120(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133116.jpg",
+    "classe": "R5",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260422_131642_069.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131718_049.jpg",
+    "classe": "R5",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260422_131718_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_051.jpg",
+    "classe": "R6",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260505_131739_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_064.jpg",
+    "classe": "V7",
+    "dist_min": 46,
+    "vizinho_treino": "professor_20260421_113447_063.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260224_163445.jpg",
+    "classe": "V6",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260308_182946.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131653_048.jpg",
+    "classe": "R5",
+    "dist_min": 31,
+    "vizinho_treino": "professor_20260422_131653_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_130958.jpg",
+    "classe": "V2",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260225_130957.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1872_16__obj08.jpg",
+    "classe": "V3",
+    "dist_min": 73,
+    "vizinho_treino": "externo_train_set__IMG_2635_25__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_071.jpg",
+    "classe": "V7",
+    "dist_min": 73,
+    "vizinho_treino": "professor_20260421_113512_032.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112509_008.jpg",
+    "classe": "V7",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260421_112509_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_014.jpg",
+    "classe": "V12",
+    "dist_min": 48,
+    "vizinho_treino": "professor_20260405_180024_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134137.jpg",
+    "classe": "R1",
+    "dist_min": 59,
+    "vizinho_treino": "usuario_IMG_20260330_070951.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131255_051.jpg",
+    "classe": "R5",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260424_131255_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_021.jpg",
+    "classe": "R1",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260405_114213_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_005.jpg",
+    "classe": "R3_R4",
+    "dist_min": 13,
+    "vizinho_treino": "usuario_20260531_180022_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_003.jpg",
+    "classe": "R6",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260531_175243_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112540_005.jpg",
+    "classe": "V7",
+    "dist_min": 38,
+    "vizinho_treino": "professor_20260421_112540_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_034.jpg",
+    "classe": "R2",
+    "dist_min": 9,
+    "vizinho_treino": "professor_20260411_134354_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_016.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_134342_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_072.jpg",
+    "classe": "V12",
+    "dist_min": 48,
+    "vizinho_treino": "professor_20260405_180114_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165544_004.jpg",
+    "classe": "V3",
+    "dist_min": 43,
+    "vizinho_treino": "professor_20260222_165544_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_044.jpg",
+    "classe": "R3_R4",
+    "dist_min": 9,
+    "vizinho_treino": "usuario_20260531_180051_043.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_033.jpg",
+    "classe": "VT",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260403_174506_089.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125445(0).jpg",
+    "classe": "V3",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260301_125440.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1846_06__obj06.jpg",
+    "classe": "V1",
+    "dist_min": 59,
+    "vizinho_treino": "externo_test_set__IMG_1839_20__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1854_24__obj03.jpg",
+    "classe": "V4",
+    "dist_min": 77,
+    "vizinho_treino": "externo_test_set__IMG_1839_13__obj08.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165515.jpg",
+    "classe": "V3",
+    "dist_min": 84,
+    "vizinho_treino": "professor_20260222_165601.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_023.jpg",
+    "classe": "R2",
+    "dist_min": 15,
+    "vizinho_treino": "professor_20260411_134448_022.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6985.jpg",
+    "classe": "V3",
+    "dist_min": 62,
+    "vizinho_treino": "professor_IMG_6949.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1854_38__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 65,
+    "vizinho_treino": "externo_test_set__IMG_1854_08__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_020.jpg",
+    "classe": "VT",
+    "dist_min": 1,
+    "vizinho_treino": "professor_20260403_174506_021.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175231_003.jpg",
+    "classe": "R6",
+    "dist_min": 0,
+    "vizinho_treino": "usuario_20260531_175231_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172527_043.jpg",
+    "classe": "V7",
+    "dist_min": 79,
+    "vizinho_treino": "professor_20260315_172527_042.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134448_014.jpg",
+    "classe": "R2",
+    "dist_min": 27,
+    "vizinho_treino": "professor_20260411_134448_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172527_068.jpg",
+    "classe": "V7",
+    "dist_min": 51,
+    "vizinho_treino": "professor_20260315_172527_067.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172443(0).jpg",
+    "classe": "V7",
+    "dist_min": 81,
+    "vizinho_treino": "professor_20260315_172501_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172230.jpg",
+    "classe": "V7",
+    "dist_min": 85,
+    "vizinho_treino": "professor_20260315_172501_023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2099_22__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 46,
+    "vizinho_treino": "externo_test_set__IMG_1839_32__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1839_04__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 78,
+    "vizinho_treino": "externo_test_set__IMG_1857_39__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132827.jpg",
+    "classe": "R1",
+    "dist_min": 57,
+    "vizinho_treino": "professor_20260323_132815.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260315_172918.jpg",
+    "classe": "V6",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260308_182943.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_057.jpg",
+    "classe": "V12",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260405_175927_058.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_005.jpg",
+    "classe": "V12",
+    "dist_min": 2,
+    "vizinho_treino": "professor_20260405_180040_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260222_165520.jpg",
+    "classe": "V3",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260222_165445.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_075.jpg",
+    "classe": "V12",
+    "dist_min": 50,
+    "vizinho_treino": "professor_20260405_180024_076.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172538.jpg",
+    "classe": "R3_R4",
+    "dist_min": 82,
+    "vizinho_treino": "usuario_20260403_172555.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172346.jpg",
+    "classe": "V7",
+    "dist_min": 93,
+    "vizinho_treino": "professor_20260224_163455.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_train_set__IMG_1832_31__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 44,
+    "vizinho_treino": "externo_test_set__IMG_2715_39__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175231_009.jpg",
+    "classe": "R6",
+    "dist_min": 7,
+    "vizinho_treino": "usuario_20260531_175231_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132938_010.jpg",
+    "classe": "R1",
+    "dist_min": 59,
+    "vizinho_treino": "usuario_IMG_20260330_071004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_052.jpg",
+    "classe": "R6",
+    "dist_min": 44,
+    "vizinho_treino": "professor_20260505_131719_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125353(0).jpg",
+    "classe": "V3",
+    "dist_min": 100,
+    "vizinho_treino": "professor_IMG_6834.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_039.jpg",
+    "classe": "R3_R4",
+    "dist_min": 21,
+    "vizinho_treino": "usuario_20260531_180051_047.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1887_38__obj01.jpg",
+    "classe": "V3",
+    "dist_min": 94,
+    "vizinho_treino": "externo_test_set__IMG_2099_37__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180009_007.jpg",
+    "classe": "R3_R4",
+    "dist_min": 3,
+    "vizinho_treino": "usuario_20260531_180009_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1897_08__obj04.jpg",
+    "classe": "V4",
+    "dist_min": 90,
+    "vizinho_treino": "externo_train_set__IMG_2807_01__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260225_131315.jpg",
+    "classe": "V2",
+    "dist_min": 92,
+    "vizinho_treino": "professor_20260225_131124.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_049.jpg",
+    "classe": "VT",
+    "dist_min": 53,
+    "vizinho_treino": "professor_20260403_174926_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_064.jpg",
+    "classe": "V7",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260421_112524_063.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174839(0).jpg",
+    "classe": "R6",
+    "dist_min": 21,
+    "vizinho_treino": "usuario_20260531_174834.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6961.jpg",
+    "classe": "V3",
+    "dist_min": 72,
+    "vizinho_treino": "professor_IMG_7002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_029.jpg",
+    "classe": "V12",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260405_180024_027.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131759_003.jpg",
+    "classe": "R5",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260422_131759_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_024.jpg",
+    "classe": "V12",
+    "dist_min": 33,
+    "vizinho_treino": "professor_20260405_180024_025.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_045.jpg",
+    "classe": "R6",
+    "dist_min": 27,
+    "vizinho_treino": "usuario_20260531_174938.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_030.jpg",
+    "classe": "R1",
+    "dist_min": 22,
+    "vizinho_treino": "professor_20260405_114213_031.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_023.jpg",
+    "classe": "V12",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260405_180114_008.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172501_015.jpg",
+    "classe": "V7",
+    "dist_min": 32,
+    "vizinho_treino": "professor_20260315_172501_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131823_019.jpg",
+    "classe": "R6",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260505_131823_020.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1887_21__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 72,
+    "vizinho_treino": "externo_test_set__IMG_1846_35__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_015.jpg",
+    "classe": "R6",
+    "dist_min": 13,
+    "vizinho_treino": "usuario_20260531_175243_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_024.jpg",
+    "classe": "R2",
+    "dist_min": 16,
+    "vizinho_treino": "professor_20260411_135032_061.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1847_16__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 55,
+    "vizinho_treino": "externo_test_set__IMG_1859_38__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1859_13__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 84,
+    "vizinho_treino": "externo_test_set__IMG_1841_01__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_080.jpg",
+    "classe": "R6",
+    "dist_min": 30,
+    "vizinho_treino": "usuario_20260531_174824.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134408_006.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_134408_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_013.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_134342_036.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_017.jpg",
+    "classe": "V12",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260405_175927_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1872_33__obj27.jpg",
+    "classe": "V3",
+    "dist_min": 84,
+    "vizinho_treino": "professor_IMG_6679.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_091.jpg",
+    "classe": "R2",
+    "dist_min": 11,
+    "vizinho_treino": "professor_20260411_134354_092.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133356_017.jpg",
+    "classe": "R5",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260424_131326_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_067.jpg",
+    "classe": "V12",
+    "dist_min": 33,
+    "vizinho_treino": "professor_20260405_175927_080.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1849_19__obj02.jpg",
+    "classe": "V1",
+    "dist_min": 57,
+    "vizinho_treino": "externo_test_set__IMG_1854_08__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_044.jpg",
+    "classe": "R6",
+    "dist_min": 5,
+    "vizinho_treino": "usuario_20260531_175243_045.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114137_041.jpg",
+    "classe": "R1",
+    "dist_min": 71,
+    "vizinho_treino": "professor_20260405_114137_045.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1865_04__obj04.jpg",
+    "classe": "V1",
+    "dist_min": 71,
+    "vizinho_treino": "externo_train_set__IMG_1863_37__obj14.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_069.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_135032_071.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174449_045.jpg",
+    "classe": "VT",
+    "dist_min": 38,
+    "vizinho_treino": "professor_20260403_174449_046.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134456.jpg",
+    "classe": "R1",
+    "dist_min": 43,
+    "vizinho_treino": "usuario_IMG_20260330_071017.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_094.jpg",
+    "classe": "R2",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260411_134418_092.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6730.jpg",
+    "classe": "V3",
+    "dist_min": 79,
+    "vizinho_treino": "professor_IMG_6746.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_066.jpg",
+    "classe": "VT",
+    "dist_min": 10,
+    "vizinho_treino": "professor_20260403_174506_065.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260308_182934.jpg",
+    "classe": "V6",
+    "dist_min": 63,
+    "vizinho_treino": "professor_20260308_182941(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_2788_26__obj03.jpg",
+    "classe": "V1",
+    "dist_min": 58,
+    "vizinho_treino": "externo_test_set__IMG_1824_40__obj16.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162251.jpg",
+    "classe": "V4",
+    "dist_min": 90,
+    "vizinho_treino": "professor_20260224_162301.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173343.jpg",
+    "classe": "R1",
+    "dist_min": 40,
+    "vizinho_treino": "professor_20260403_173343(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_2103_32__obj01.jpg",
+    "classe": "V3",
+    "dist_min": 89,
+    "vizinho_treino": "professor_IMG_6759.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174610(0).jpg",
+    "classe": "VT",
+    "dist_min": 35,
+    "vizinho_treino": "professor_20260403_174449_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_065.jpg",
+    "classe": "V12",
+    "dist_min": 48,
+    "vizinho_treino": "professor_20260405_180024_066.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_051.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_135032_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162925.jpg",
+    "classe": "V4",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260224_163142.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260315_172924.jpg",
+    "classe": "V6",
+    "dist_min": 95,
+    "vizinho_treino": "professor_20260308_182941.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7124.jpg",
+    "classe": "V6",
+    "dist_min": 72,
+    "vizinho_treino": "professor_20260224_163455.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174641(0).jpg",
+    "classe": "VT",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260403_174506_040.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260403_173332.jpg",
+    "classe": "R1",
+    "dist_min": 94,
+    "vizinho_treino": "professor_20260403_173312.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175236_069.jpg",
+    "classe": "R6",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260531_175236_070.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_060.jpg",
+    "classe": "R5",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260424_131348_089.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_016.jpg",
+    "classe": "V12",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260405_175927_015.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_078.jpg",
+    "classe": "R6",
+    "dist_min": 10,
+    "vizinho_treino": "usuario_20260531_175243_079.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260423_133137_008.jpg",
+    "classe": "R5",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260423_133137_012.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1839_17__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 66,
+    "vizinho_treino": "externo_test_set__IMG_1900_31__obj11.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112524_056.jpg",
+    "classe": "V7",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260421_112524_055.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131931.jpg",
+    "classe": "R6",
+    "dist_min": 18,
+    "vizinho_treino": "professor_20260505_131929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_034.jpg",
+    "classe": "R2",
+    "dist_min": 1,
+    "vizinho_treino": "professor_20260411_135032_033.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112449.jpg",
+    "classe": "V7",
+    "dist_min": 76,
+    "vizinho_treino": "professor_20260421_112508.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172706.jpg",
+    "classe": "R3_R4",
+    "dist_min": 88,
+    "vizinho_treino": "usuario_20260403_172715(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131930.jpg",
+    "classe": "R6",
+    "dist_min": 17,
+    "vizinho_treino": "professor_20260505_131929.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_018.jpg",
+    "classe": "V12",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260405_175927_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_051.jpg",
+    "classe": "R2",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260411_134354_052.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_036.jpg",
+    "classe": "VT",
+    "dist_min": 40,
+    "vizinho_treino": "professor_20260403_174506_092.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_IMG_6858.jpg",
+    "classe": "V3",
+    "dist_min": 97,
+    "vizinho_treino": "professor_20260222_165739_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131739_038.jpg",
+    "classe": "R6",
+    "dist_min": 24,
+    "vizinho_treino": "usuario_20260531_174933.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_005.jpg",
+    "classe": "V7",
+    "dist_min": 14,
+    "vizinho_treino": "professor_20260421_113417_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180114_006.jpg",
+    "classe": "V12",
+    "dist_min": 24,
+    "vizinho_treino": "professor_20260405_180114_007.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\usuario_20260329_175422(0).jpg",
+    "classe": "V3",
+    "dist_min": 11,
+    "vizinho_treino": "usuario_20260329_175422.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_096.jpg",
+    "classe": "R3_R4",
+    "dist_min": 14,
+    "vizinho_treino": "usuario_20260531_180022_095.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_048.jpg",
+    "classe": "R6",
+    "dist_min": 13,
+    "vizinho_treino": "usuario_20260531_175243_050.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_1829_28__obj26.jpg",
+    "classe": "V3",
+    "dist_min": 96,
+    "vizinho_treino": "professor_IMG_6737.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174912(1).jpg",
+    "classe": "R6",
+    "dist_min": 14,
+    "vizinho_treino": "usuario_20260531_174912(2).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_080.jpg",
+    "classe": "R6",
+    "dist_min": 12,
+    "vizinho_treino": "usuario_20260531_175243_081.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_003.jpg",
+    "classe": "R5",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260422_131723_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_135032_070.jpg",
+    "classe": "R2",
+    "dist_min": 4,
+    "vizinho_treino": "professor_20260411_135032_071.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131653_085.jpg",
+    "classe": "R5",
+    "dist_min": 66,
+    "vizinho_treino": "professor_20260422_131653_082.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131639.jpg",
+    "classe": "R5",
+    "dist_min": 79,
+    "vizinho_treino": "professor_20260422_131642_074.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260403_172541(0).jpg",
+    "classe": "R3_R4",
+    "dist_min": 77,
+    "vizinho_treino": "usuario_20260403_172555.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_052.jpg",
+    "classe": "R1",
+    "dist_min": 26,
+    "vizinho_treino": "professor_20260405_114213_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174926_010.jpg",
+    "classe": "VT",
+    "dist_min": 1,
+    "vizinho_treino": "professor_20260403_174926_009.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_085.jpg",
+    "classe": "R2",
+    "dist_min": 3,
+    "vizinho_treino": "professor_20260411_134418_084.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_057.jpg",
+    "classe": "V7",
+    "dist_min": 37,
+    "vizinho_treino": "professor_20260421_113417_058.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162931.jpg",
+    "classe": "V4",
+    "dist_min": 88,
+    "vizinho_treino": "professor_20260224_162319.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_133641_035.jpg",
+    "classe": "R1",
+    "dist_min": 54,
+    "vizinho_treino": "professor_20260323_133641_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_175927_052.jpg",
+    "classe": "V12",
+    "dist_min": 28,
+    "vizinho_treino": "professor_20260405_175927_051.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_train_set__IMG_2095_06__obj05.jpg",
+    "classe": "V1",
+    "dist_min": 70,
+    "vizinho_treino": "externo_train_set__IMG_1832_01__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_175243_010(1).jpg",
+    "classe": "R6",
+    "dist_min": 12,
+    "vizinho_treino": "usuario_20260531_175243_011.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_005.jpg",
+    "classe": "R2",
+    "dist_min": 5,
+    "vizinho_treino": "professor_20260411_134354_006.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260424_131348_041.jpg",
+    "classe": "R5",
+    "dist_min": 20,
+    "vizinho_treino": "professor_20260424_131336_091.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180009_013.jpg",
+    "classe": "R3_R4",
+    "dist_min": 8,
+    "vizinho_treino": "usuario_20260531_180009_014.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180022_087.jpg",
+    "classe": "R3_R4",
+    "dist_min": 4,
+    "vizinho_treino": "usuario_20260531_180022_088.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_132919.jpg",
+    "classe": "R1",
+    "dist_min": 60,
+    "vizinho_treino": "professor_20260323_132830.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125452.jpg",
+    "classe": "V3",
+    "dist_min": 83,
+    "vizinho_treino": "professor_20260301_125458.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131642_073.jpg",
+    "classe": "R5",
+    "dist_min": 30,
+    "vizinho_treino": "professor_20260422_131642_074.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1869_04__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 54,
+    "vizinho_treino": "externo_test_set__IMG_1840_11__obj00.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_043.jpg",
+    "classe": "V12",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260405_180024_064.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1841_05__obj04.jpg",
+    "classe": "V1",
+    "dist_min": 52,
+    "vizinho_treino": "externo_test_set__IMG_2715_39__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131719_013.jpg",
+    "classe": "R6",
+    "dist_min": 38,
+    "vizinho_treino": "usuario_20260531_175236_087.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174506_054.jpg",
+    "classe": "VT",
+    "dist_min": 9,
+    "vizinho_treino": "professor_20260403_174506_053.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113512_025.jpg",
+    "classe": "V7",
+    "dist_min": 49,
+    "vizinho_treino": "professor_20260421_113512_024.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260315_172311.jpg",
+    "classe": "V7",
+    "dist_min": 96,
+    "vizinho_treino": "professor_20260421_112524_068.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131723_027.jpg",
+    "classe": "R5",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260423_133228_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180040_001.jpg",
+    "classe": "V12",
+    "dist_min": 1,
+    "vizinho_treino": "professor_20260405_180040_002.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260405_114213_014.jpg",
+    "classe": "R1",
+    "dist_min": 39,
+    "vizinho_treino": "professor_20260405_114213_010.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1887_36__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 89,
+    "vizinho_treino": "externo_test_set__IMG_1857_31__obj06.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180206_089.jpg",
+    "classe": "R3_R4",
+    "dist_min": 24,
+    "vizinho_treino": "usuario_20260531_180206_005.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\professor_20260308_185048.jpg",
+    "classe": "V1",
+    "dist_min": 92,
+    "vizinho_treino": "externo_test_set__IMG_1876_02__obj02.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V2\\professor_20260224_161624.jpg",
+    "classe": "V2",
+    "dist_min": 102,
+    "vizinho_treino": "professor_20260224_161632.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113447_017.jpg",
+    "classe": "V7",
+    "dist_min": 59,
+    "vizinho_treino": "professor_20260421_113447_018.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_096.jpg",
+    "classe": "R3_R4",
+    "dist_min": 6,
+    "vizinho_treino": "usuario_20260531_180051_095.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260317_134512.jpg",
+    "classe": "R1",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260317_134511(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V12\\professor_20260405_180024_045.jpg",
+    "classe": "V12",
+    "dist_min": 41,
+    "vizinho_treino": "professor_20260405_180024_044.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260224_163514(0).jpg",
+    "classe": "V7",
+    "dist_min": 98,
+    "vizinho_treino": "professor_20260421_113512_097.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\externo_test_set__IMG_2636_19__obj14.jpg",
+    "classe": "V3",
+    "dist_min": 77,
+    "vizinho_treino": "professor_IMG_6715.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_IMG_7147.jpg",
+    "classe": "V6",
+    "dist_min": 67,
+    "vizinho_treino": "professor_20260308_182941.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1849_41__obj05.jpg",
+    "classe": "V1",
+    "dist_min": 75,
+    "vizinho_treino": "externo_test_set__IMG_2578_09__obj04.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174900.jpg",
+    "classe": "R6",
+    "dist_min": 24,
+    "vizinho_treino": "usuario_20260531_174933.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V6\\professor_20260224_163507.jpg",
+    "classe": "V6",
+    "dist_min": 91,
+    "vizinho_treino": "professor_20260308_182944(0).jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R3_R4\\usuario_20260531_180051_031.jpg",
+    "classe": "R3_R4",
+    "dist_min": 22,
+    "vizinho_treino": "usuario_20260531_180051_045.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1849_30__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 83,
+    "vizinho_treino": "externo_test_set__IMG_1870_20__obj06.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1847_16__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 56,
+    "vizinho_treino": "externo_test_set__IMG_1824_34__obj07.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1854_18__obj00.jpg",
+    "classe": "V1",
+    "dist_min": 66,
+    "vizinho_treino": "externo_test_set__IMG_2097_07__obj01.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\professor_20260224_162919.jpg",
+    "classe": "V4",
+    "dist_min": 99,
+    "vizinho_treino": "professor_20260224_162328.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\VT\\professor_20260403_174614_015.jpg",
+    "classe": "VT",
+    "dist_min": 23,
+    "vizinho_treino": "professor_20260403_174614_016.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\professor_20260505_131823_005.jpg",
+    "classe": "R6",
+    "dist_min": 13,
+    "vizinho_treino": "professor_20260505_131823_004.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_067.jpg",
+    "classe": "R2",
+    "dist_min": 6,
+    "vizinho_treino": "professor_20260411_134342_066.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134354_038.jpg",
+    "classe": "R2",
+    "dist_min": 7,
+    "vizinho_treino": "professor_20260411_134354_039.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134342_049.jpg",
+    "classe": "R2",
+    "dist_min": 6,
+    "vizinho_treino": "professor_20260411_134342_048.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V3\\professor_20260301_125352.jpg",
+    "classe": "V3",
+    "dist_min": 94,
+    "vizinho_treino": "externo_train_set__IMG_2717_05__obj65.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_113417_088.jpg",
+    "classe": "V7",
+    "dist_min": 29,
+    "vizinho_treino": "professor_20260421_113417_087.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R5\\professor_20260422_131642_037.jpg",
+    "classe": "R5",
+    "dist_min": 78,
+    "vizinho_treino": "professor_20260422_131642_038.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V7\\professor_20260421_112445.jpg",
+    "classe": "V7",
+    "dist_min": 74,
+    "vizinho_treino": "professor_20260421_112442.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V4\\externo_test_set__IMG_1857_08__obj11.jpg",
+    "classe": "V4",
+    "dist_min": 92,
+    "vizinho_treino": "externo_test_set__IMG_1840_14__obj05.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R2\\professor_20260411_134418_091.jpg",
+    "classe": "R2",
+    "dist_min": 12,
+    "vizinho_treino": "professor_20260411_134448_041.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R1\\professor_20260323_133606_015.jpg",
+    "classe": "R1",
+    "dist_min": 65,
+    "vizinho_treino": "professor_20260323_133606_023.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\V1\\externo_test_set__IMG_1872_36__obj01.jpg",
+    "classe": "V1",
+    "dist_min": 81,
+    "vizinho_treino": "externo_train_set__IMG_1881_24__obj03.jpg"
+  },
+  {
+    "teste": "C:\\Users\\Gustavo\\Desktop\\Projeto Final\\dataset_unificado\\R6\\usuario_20260531_174938(1).jpg",
+    "classe": "R6",
+    "dist_min": 9,
+    "vizinho_treino": "usuario_20260531_174938(0).jpg"
+  }
+]

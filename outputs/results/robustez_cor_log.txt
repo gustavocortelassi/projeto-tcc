@@ -1,0 +1,61 @@
+[    0.1s] Dispositivo: NVIDIA GeForce RTX 3070 Ti
+[   16.8s]   resnet50        original        F1=0.9773  acc=0.9842  F1 V1-V4=0.9662  erros=12
+[   19.9s]   resnet50        tons_de_cinza   F1=0.7157  acc=0.7556  F1 V1-V4=0.6981  erros=186
+[   24.5s]   resnet50        cor_perturbada  F1=0.9702  acc=0.9777  F1 V1-V4=0.9507  erros=17
+[   54.5s]   efficientnetv2  original        F1=0.9845  acc=0.9882  F1 V1-V4=0.9866  erros=9
+[   63.8s]   efficientnetv2  tons_de_cinza   F1=0.8506  acc=0.8633  F1 V1-V4=0.7428  erros=104
+[   74.4s]   efficientnetv2  cor_perturbada  F1=0.9828  acc=0.9882  F1 V1-V4=0.9677  erros=9
+[  146.8s]   vit             original        F1=0.9761  acc=0.9816  F1 V1-V4=0.9610  erros=14
+[  152.4s]   vit             tons_de_cinza   F1=0.1140  acc=0.2142  F1 V1-V4=0.2400  erros=598
+[  159.5s]   vit             cor_perturbada  F1=0.9658  acc=0.9698  F1 V1-V4=0.9449  erros=23
+[  214.4s]   swin            original        F1=0.9507  acc=0.9606  F1 V1-V4=0.8951  erros=30
+[  245.6s]   swin            tons_de_cinza   F1=0.0946  acc=0.1577  F1 V1-V4=0.2432  erros=641
+[  278.5s]   swin            cor_perturbada  F1=0.9135  acc=0.9238  F1 V1-V4=0.8458  erros=58
+[  285.3s]   mobilevit       original        F1=0.9845  acc=0.9882  F1 V1-V4=0.9866  erros=9
+[  290.0s]   mobilevit       tons_de_cinza   F1=0.8645  acc=0.8883  F1 V1-V4=0.7364  erros=85
+[  296.1s]   mobilevit       cor_perturbada  F1=0.9876  acc=0.9908  F1 V1-V4=0.9899  erros=7
+
+======================================================================
+ACERTO POR FONTE NAS CLASSES COM MAIS DE UMA FONTE (ensemble, teste)
+======================================================================
+
+  resnet50
+    R1     professor: 63/63  usuario: 11/12
+    R6     professor: 30/30  usuario: 45/45
+    V1     externo: 67/67  professor: 6/8
+    V3     externo: 23/23  professor: 51/51  usuario: 1/1
+    V4     externo: 10/10  professor: 9/11
+    V7     professor: 71/74  usuario: 1/1
+
+  efficientnetv2
+    R1     professor: 63/63  usuario: 12/12
+    R6     professor: 30/30  usuario: 45/45
+    V1     externo: 67/67  professor: 6/8
+    V3     externo: 23/23  professor: 51/51  usuario: 1/1
+    V4     externo: 10/10  professor: 11/11
+    V7     professor: 72/74  usuario: 1/1
+
+  vit
+    R1     professor: 62/63  usuario: 9/12
+    R6     professor: 30/30  usuario: 45/45
+    V1     externo: 67/67  professor: 7/8
+    V3     externo: 23/23  professor: 48/51  usuario: 1/1
+    V4     externo: 10/10  professor: 10/11
+    V7     professor: 72/74  usuario: 1/1
+
+  swin
+    R1     professor: 62/63  usuario: 10/12
+    R6     professor: 29/30  usuario: 45/45
+    V1     externo: 67/67  professor: 5/8
+    V3     externo: 20/23  professor: 44/51  usuario: 1/1
+    V4     externo: 9/10  professor: 9/11
+    V7     professor: 69/74  usuario: 1/1
+
+  mobilevit
+    R1     professor: 63/63  usuario: 12/12
+    R6     professor: 30/30  usuario: 45/45
+    V1     externo: 67/67  professor: 7/8
+    V3     externo: 22/23  professor: 51/51  usuario: 1/1
+    V4     externo: 10/10  professor: 11/11
+    V7     professor: 72/74  usuario: 1/1
+[  296.2s] Salvo em: C:\Users\Gustavo\Desktop\Projeto Final\outputs\results\robustez_cor.json

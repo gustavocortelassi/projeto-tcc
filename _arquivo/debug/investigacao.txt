@@ -1,0 +1,110 @@
+
+======================================================================
+1. SCRIPTS .py NA RAIZ
+======================================================================
+  02_preprocessing.py                           18/09/2026 07:25
+  03_treinar.py                                 04/09/2026 19:21
+  05_avaliar_final.py                           07/09/2026 19:40
+  06_teste_significancia.py                     07/09/2026 19:40
+  07b_gradcam_v6_geral.py                       08/09/2026 20:05
+  08_comparar_folds_atencao.py                  08/09/2026 19:32
+  09_gerar_relatorio_visual (1).py              15/09/2026 15:39
+  09_gerar_relatorio_visual.py                  15/09/2026 15:42
+  10_baseline_trivial.py                        11/09/2026 11:13
+  11_checar_jitter_aplicado.py                  13/09/2026 10:24
+  12_checar_atalho_pos_jitter.py                13/09/2026 10:32
+  13_comparacao_controlada_jitter.py            13/09/2026 10:40
+  14_gradcam_acertos.py                         25/09/2026 22:55
+  buscar_anotacao.py                            04/09/2026 19:02
+  checar_atalho_nitidez.py                      08/09/2026 20:07
+  checar_fold4_corrompido.py                    25/09/2026 19:53
+  checar_vazamento_fold.py                      04/09/2026 19:40
+  comparar_fontes.py                            03/09/2026 20:32
+  config.py                                     04/09/2026 19:20
+  contar_datasets.py                            04/10/2026 18:07
+  extrair_bboxes_voc.py                         04/09/2026 19:12
+  harmonizar_dataset.py                         03/09/2026 20:43
+  investigar_pipeline.py                        04/10/2026 18:11
+  montar_dataset_final.py                       04/09/2026 19:21
+  organizar_fonte_externa.py                    04/09/2026 18:42
+  treinar_efficientnetv2.py                     04/09/2026 19:21
+  treinar_mobilevit.py                          04/09/2026 19:21
+  treinar_resnet50.py                           04/09/2026 19:21
+  treinar_swin.py                               04/09/2026 19:21
+  treinar_vit.py                                04/09/2026 19:21
+  treino_core.py                                04/09/2026 19:21
+
+======================================================================
+2. OCORRÊNCIAS DE V7_V8 / V8 / V4_V5 / EXCLUDED_CLASSES / CLASS_MAP
+======================================================================
+
+  --- 02_preprocessing.py ---
+    L338   'excluded_classes': EXCLUDED_CLASSES,
+
+  --- config.py ---
+    L19    # União das classes das 3 fontes já mescladas em dataset_unificado. Sem V8 —
+    L23    EXCLUDED_CLASSES = []
+    L24    CLASSES_TREINO   = [c for c in CLASSES if c not in EXCLUDED_CLASSES]
+
+  --- contar_datasets.py ---
+    L15    'V1', 'V2', 'V3', 'V4', 'V5', 'V4_V5', 'V6', 'V7', 'V7_V8', 'V8',
+
+  --- harmonizar_dataset.py ---
+    L11    3. Funde V4_V5 -> V4 e V7_V8 -> V7 nas pastas do usuário (Dataset 1),
+    L34    FUSAO_CLASSES_USUARIO = {'V4_V5': 'V4', 'V7_V8': 'V7'}
+
+  --- montar_dataset_final.py ---
+    L50    'mapa_classes': {'V4_V5': 'V4', 'V7_V8': 'V7'},
+
+  --- organizar_fonte_externa.py ---
+    L36    'V1', 'V2', 'V3', 'V4', 'V6', 'V7', 'V8', 'V12', 'VT']
+
+======================================================================
+3. ARQUIVOS DE RESULTADO E LOG
+======================================================================
+  04/10/2026 18:11       0.0 KB  investigacao.txt
+  27/09/2026 15:11       0.3 KB  outputs\results\comparativo_final.csv
+  27/09/2026 15:11       4.2 KB  outputs\results\avaliacao_mobilevit.json
+  27/09/2026 15:10       4.3 KB  outputs\results\avaliacao_swin.json
+  27/09/2026 15:09       4.3 KB  outputs\results\avaliacao_vit.json
+  27/09/2026 15:08       4.2 KB  outputs\results\avaliacao_efficientnetv2.json
+  27/09/2026 15:07       4.2 KB  outputs\results\avaliacao_resnet50.json
+  27/09/2026 07:22       0.6 KB  outputs\results\resultado_swin.json
+  27/09/2026 07:22       9.3 KB  outputs\results\swin_fold4_resultado.json
+  21/09/2026 11:01      34.0 KB  logs\swin.log
+  21/09/2026 11:01       9.3 KB  outputs\results\swin_fold5_resultado.json
+  21/09/2026 05:47       9.3 KB  outputs\results\swin_fold3_resultado.json
+  21/09/2026 03:07       9.3 KB  outputs\results\swin_fold2_resultado.json
+  21/09/2026 00:22       0.5 KB  logs\resnet50.log
+  21/09/2026 00:22       0.5 KB  logs\mobilevit.log
+  21/09/2026 00:22       0.5 KB  logs\vit.log
+  21/09/2026 00:21       0.5 KB  logs\efficientnetv2.log
+  20/09/2026 16:32       9.3 KB  outputs\results\swin_fold1_resultado.json
+  19/09/2026 10:10       0.6 KB  outputs\results\resultado_resnet50.json
+  19/09/2026 10:10       9.0 KB  outputs\results\resnet50_fold5_resultado.json
+  19/09/2026 09:29       6.6 KB  outputs\results\resnet50_fold4_resultado.json
+  19/09/2026 08:59       6.8 KB  outputs\results\resnet50_fold3_resultado.json
+  19/09/2026 08:28       7.9 KB  outputs\results\resnet50_fold2_resultado.json
+  19/09/2026 07:52       8.3 KB  outputs\results\resnet50_fold1_resultado.json
+  19/09/2026 07:15       0.6 KB  outputs\results\resultado_mobilevit.json
+  19/09/2026 07:15       5.7 KB  outputs\results\mobilevit_fold5_resultado.json
+  19/09/2026 06:46       9.5 KB  outputs\results\mobilevit_fold4_resultado.json
+  19/09/2026 05:57       5.9 KB  outputs\results\mobilevit_fold3_resultado.json
+  19/09/2026 05:27       3.8 KB  outputs\results\mobilevit_fold2_resultado.json
+  19/09/2026 05:08       5.9 KB  outputs\results\mobilevit_fold1_resultado.json
+  19/09/2026 04:38       0.6 KB  outputs\results\resultado_vit.json
+  19/09/2026 04:38       4.8 KB  outputs\results\vit_fold5_resultado.json
+  19/09/2026 04:09       6.4 KB  outputs\results\vit_fold4_resultado.json
+  19/09/2026 03:30       7.0 KB  outputs\results\vit_fold3_resultado.json
+  19/09/2026 02:48       4.4 KB  outputs\results\vit_fold2_resultado.json
+  19/09/2026 02:21       8.7 KB  outputs\results\vit_fold1_resultado.json
+  19/09/2026 01:28       0.6 KB  outputs\results\resultado_efficientnetv2.json
+  19/09/2026 01:28       9.5 KB  outputs\results\efficientnetv2_fold5_resultado.json
+  19/09/2026 00:16       4.4 KB  outputs\results\efficientnetv2_fold4_resultado.json
+  18/09/2026 23:43       6.1 KB  outputs\results\efficientnetv2_fold3_resultado.json
+  18/09/2026 22:57       8.9 KB  outputs\results\efficientnetv2_fold2_resultado.json
+  18/09/2026 21:50       5.7 KB  outputs\results\efficientnetv2_fold1_resultado.json
+  18/09/2026 07:26    4194.4 KB  outputs\results\kfold_config.json
+  18/09/2026 07:25     397.2 KB  outputs\results\excedente.json
+  04/09/2026 19:27     804.0 KB  grupos_quase_duplicata.json
+  04/09/2026 19:17   27348.1 KB  objetos_filtrados.json

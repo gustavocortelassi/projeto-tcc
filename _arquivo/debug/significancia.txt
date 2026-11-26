@@ -1,0 +1,16 @@
+GPU: NVIDIA GeForce RTX 3070 Ti
+
+resnet50: inferência por fold...
+  ensemble: 12 erros (deve bater com o 05_avaliar_final)
+
+efficientnetv2: inferência por fold...
+  ensemble: 9 erros (deve bater com o 05_avaliar_final)
+
+vit: inferência por fold...
+  ensemble: 14 erros (deve bater com o 05_avaliar_final)
+
+swin: inferência por fold...
+  ensemble: 30 erros (deve bater com o 05_avaliar_final)
+
+mobilevit: inferência por fold...
+  ensemble: 9 erros (deve bater com o 05_avaliar_final)

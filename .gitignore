@@ -1,0 +1,34 @@
+@'
+# --- imagens (datasets, plots, reuniao) ---
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.bmp
+*.webp
+*.heic
+*.HEIC
+
+# --- pastas de dataset inteiras (tem xml/ini/txt junto) ---
+Dataset Nova Tentativa/
+Dataset Nova Tentativa Professor/
+Dataset V1 a V4 Externo/
+dataset_unificado/
+dataset_split/
+train_set/
+validation_set/
+test_set/
+
+# --- modelos treinados (4,3 GB, acima do limite do GitHub) ---
+outputs/models/
+*.pt
+*.pth
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+desktop.ini
+'@ | Set-Content -Encoding utf8 .gitignore

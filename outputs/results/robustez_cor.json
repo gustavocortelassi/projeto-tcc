@@ -1,0 +1,436 @@
+{
+  "robustez": {
+    "resnet50": {
+      "original": {
+        "f1_macro": 0.9773268076364281,
+        "acuracia": 0.9842312746386334,
+        "f1_macro_v1_v4": 0.9662322262487826,
+        "erros": 12
+      },
+      "tons_de_cinza": {
+        "f1_macro": 0.7157387815140184,
+        "acuracia": 0.7555847568988173,
+        "f1_macro_v1_v4": 0.6980635052717432,
+        "erros": 186
+      },
+      "cor_perturbada": {
+        "f1_macro": 0.9701706378469035,
+        "acuracia": 0.9776609724047306,
+        "f1_macro_v1_v4": 0.9506603453566899,
+        "erros": 17
+      }
+    },
+    "efficientnetv2": {
+      "original": {
+        "f1_macro": 0.9845302699546173,
+        "acuracia": 0.988173455978975,
+        "f1_macro_v1_v4": 0.9865753911806544,
+        "erros": 9
+      },
+      "tons_de_cinza": {
+        "f1_macro": 0.8505785711124351,
+        "acuracia": 0.8633377135348226,
+        "f1_macro_v1_v4": 0.7428412785340497,
+        "erros": 104
+      },
+      "cor_perturbada": {
+        "f1_macro": 0.9827739600137906,
+        "acuracia": 0.988173455978975,
+        "f1_macro_v1_v4": 0.9676742532005689,
+        "erros": 9
+      }
+    },
+    "vit": {
+      "original": {
+        "f1_macro": 0.9760687046145613,
+        "acuracia": 0.9816031537450722,
+        "f1_macro_v1_v4": 0.9609656356922915,
+        "erros": 14
+      },
+      "tons_de_cinza": {
+        "f1_macro": 0.11399922478616148,
+        "acuracia": 0.21419185282522996,
+        "f1_macro_v1_v4": 0.2399749373433584,
+        "erros": 598
+      },
+      "cor_perturbada": {
+        "f1_macro": 0.9658443406161238,
+        "acuracia": 0.9697766097240473,
+        "f1_macro_v1_v4": 0.9448592848304016,
+        "erros": 23
+      }
+    },
+    "swin": {
+      "original": {
+        "f1_macro": 0.950729233718087,
+        "acuracia": 0.9605781865965834,
+        "f1_macro_v1_v4": 0.895072061631045,
+        "erros": 30
+      },
+      "tons_de_cinza": {
+        "f1_macro": 0.09455833434998778,
+        "acuracia": 0.15768725361366623,
+        "f1_macro_v1_v4": 0.24319293674916775,
+        "erros": 641
+      },
+      "cor_perturbada": {
+        "f1_macro": 0.9135461528399146,
+        "acuracia": 0.923784494086728,
+        "f1_macro_v1_v4": 0.8458040935672515,
+        "erros": 58
+      }
+    },
+    "mobilevit": {
+      "original": {
+        "f1_macro": 0.9845306346918243,
+        "acuracia": 0.988173455978975,
+        "f1_macro_v1_v4": 0.9865765765765766,
+        "erros": 9
+      },
+      "tons_de_cinza": {
+        "f1_macro": 0.8644741862864793,
+        "acuracia": 0.8883048620236531,
+        "f1_macro_v1_v4": 0.7364498060599572,
+        "erros": 85
+      },
+      "cor_perturbada": {
+        "f1_macro": 0.9876109581838725,
+        "acuracia": 0.9908015768725361,
+        "f1_macro_v1_v4": 0.9899097617551771,
+        "erros": 7
+      }
+    }
+  },
+  "por_fonte": {
+    "resnet50": {
+      "V3": {
+        "externo": {
+          "acertos": 23,
+          "n": 23
+        },
+        "professor": {
+          "acertos": 51,
+          "n": 51
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "V4": {
+        "externo": {
+          "acertos": 10,
+          "n": 10
+        },
+        "professor": {
+          "acertos": 9,
+          "n": 11
+        }
+      },
+      "R1": {
+        "professor": {
+          "acertos": 63,
+          "n": 63
+        },
+        "usuario": {
+          "acertos": 11,
+          "n": 12
+        }
+      },
+      "V1": {
+        "externo": {
+          "acertos": 67,
+          "n": 67
+        },
+        "professor": {
+          "acertos": 6,
+          "n": 8
+        }
+      },
+      "V7": {
+        "professor": {
+          "acertos": 71,
+          "n": 74
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "R6": {
+        "professor": {
+          "acertos": 30,
+          "n": 30
+        },
+        "usuario": {
+          "acertos": 45,
+          "n": 45
+        }
+      }
+    },
+    "efficientnetv2": {
+      "V3": {
+        "externo": {
+          "acertos": 23,
+          "n": 23
+        },
+        "professor": {
+          "acertos": 51,
+          "n": 51
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "V4": {
+        "externo": {
+          "acertos": 10,
+          "n": 10
+        },
+        "professor": {
+          "acertos": 11,
+          "n": 11
+        }
+      },
+      "R1": {
+        "professor": {
+          "acertos": 63,
+          "n": 63
+        },
+        "usuario": {
+          "acertos": 12,
+          "n": 12
+        }
+      },
+      "V1": {
+        "externo": {
+          "acertos": 67,
+          "n": 67
+        },
+        "professor": {
+          "acertos": 6,
+          "n": 8
+        }
+      },
+      "V7": {
+        "professor": {
+          "acertos": 72,
+          "n": 74
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "R6": {
+        "professor": {
+          "acertos": 30,
+          "n": 30
+        },
+        "usuario": {
+          "acertos": 45,
+          "n": 45
+        }
+      }
+    },
+    "vit": {
+      "V3": {
+        "externo": {
+          "acertos": 23,
+          "n": 23
+        },
+        "professor": {
+          "acertos": 48,
+          "n": 51
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "V4": {
+        "externo": {
+          "acertos": 10,
+          "n": 10
+        },
+        "professor": {
+          "acertos": 10,
+          "n": 11
+        }
+      },
+      "R1": {
+        "professor": {
+          "acertos": 62,
+          "n": 63
+        },
+        "usuario": {
+          "acertos": 9,
+          "n": 12
+        }
+      },
+      "V1": {
+        "externo": {
+          "acertos": 67,
+          "n": 67
+        },
+        "professor": {
+          "acertos": 7,
+          "n": 8
+        }
+      },
+      "V7": {
+        "professor": {
+          "acertos": 72,
+          "n": 74
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "R6": {
+        "professor": {
+          "acertos": 30,
+          "n": 30
+        },
+        "usuario": {
+          "acertos": 45,
+          "n": 45
+        }
+      }
+    },
+    "swin": {
+      "V3": {
+        "externo": {
+          "acertos": 20,
+          "n": 23
+        },
+        "professor": {
+          "acertos": 44,
+          "n": 51
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "V4": {
+        "externo": {
+          "acertos": 9,
+          "n": 10
+        },
+        "professor": {
+          "acertos": 9,
+          "n": 11
+        }
+      },
+      "R1": {
+        "professor": {
+          "acertos": 62,
+          "n": 63
+        },
+        "usuario": {
+          "acertos": 10,
+          "n": 12
+        }
+      },
+      "V1": {
+        "externo": {
+          "acertos": 67,
+          "n": 67
+        },
+        "professor": {
+          "acertos": 5,
+          "n": 8
+        }
+      },
+      "V7": {
+        "professor": {
+          "acertos": 69,
+          "n": 74
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "R6": {
+        "professor": {
+          "acertos": 29,
+          "n": 30
+        },
+        "usuario": {
+          "acertos": 45,
+          "n": 45
+        }
+      }
+    },
+    "mobilevit": {
+      "V3": {
+        "externo": {
+          "acertos": 22,
+          "n": 23
+        },
+        "professor": {
+          "acertos": 51,
+          "n": 51
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "V4": {
+        "externo": {
+          "acertos": 10,
+          "n": 10
+        },
+        "professor": {
+          "acertos": 11,
+          "n": 11
+        }
+      },
+      "R1": {
+        "professor": {
+          "acertos": 63,
+          "n": 63
+        },
+        "usuario": {
+          "acertos": 12,
+          "n": 12
+        }
+      },
+      "V1": {
+        "externo": {
+          "acertos": 67,
+          "n": 67
+        },
+        "professor": {
+          "acertos": 7,
+          "n": 8
+        }
+      },
+      "V7": {
+        "professor": {
+          "acertos": 72,
+          "n": 74
+        },
+        "usuario": {
+          "acertos": 1,
+          "n": 1
+        }
+      },
+      "R6": {
+        "professor": {
+          "acertos": 30,
+          "n": 30
+        },
+        "usuario": {
+          "acertos": 45,
+          "n": 45
+        }
+      }
+    }
+  }
+}
